@@ -3300,6 +3300,66 @@
       "bytes": 61832,
       "sha256": "d2e765f9ed946e8b9f53f15705920e3960d5437c3f0ed60e6438248adf6aa6a2",
       "status": "ok"
+    },
+    {
+      "worldId": "wrld_e6767a73-e066-4e39-a43b-c4fc97ea8d67",
+      "name": "The Black Shore - 黒の岸辺",
+      "path": "images/wrld_e6767a73-e066-4e39-a43b-c4fc97ea8d67.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 68908,
+      "sha256": "d1a34e741493bc7ce4cb12f338b268c056eb8746469d302618f1168defb5a198",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_ef76b2bf-3259-4e06-8bd8-71431c84c613",
+      "name": "Maldives Cottage - Daytime",
+      "path": "images/wrld_ef76b2bf-3259-4e06-8bd8-71431c84c613.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 105513,
+      "sha256": "d293dd0730bb0a49879895a7ec137d710221139049fa29025a9197d5c7efa491",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_d271b719-7cd9-4862-9bcf-c31620cfe3a0",
+      "name": "Toto Namib Desert",
+      "path": "images/wrld_d271b719-7cd9-4862-9bcf-c31620cfe3a0.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 65487,
+      "sha256": "f21fb6a48ebd13640e7373229a609af010728256cf77b7fd8041ccee9d814854",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_9ac57cb1-b3a0-4001-8d80-d4e54d2a1167",
+      "name": "Madagascal Photo Gallery ver․1․1",
+      "path": "images/wrld_9ac57cb1-b3a0-4001-8d80-d4e54d2a1167.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 81072,
+      "sha256": "afdd9eb7d6c333912029bb06d1838d8e2bd205868fdd757f762a141a1a76b6fc",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_f65e5fdb-8902-46c8-a387-2140013f1b26",
+      "name": "Bolivia's Salar de Uyuni",
+      "path": "images/wrld_f65e5fdb-8902-46c8-a387-2140013f1b26.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 55145,
+      "sha256": "ccbaec7bec11d6a004a8b257f42590b37b6ae4e28fb65446344ca85681d3717b",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_6aa5f759-f628-4a18-8980-73b1bfd83250",
+      "name": "Random Place in Slovenia",
+      "path": "images/wrld_6aa5f759-f628-4a18-8980-73b1bfd83250.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 77319,
+      "sha256": "7a6b1758b821b21c2c0d79bf35749bbff972467ede27115bd4137bd1e24d8051",
+      "status": "ok"
     }
   ]
 }
