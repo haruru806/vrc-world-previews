@@ -1,0 +1,2375 @@
+{
+  "version": 1,
+  "worlds": [
+    {
+      "worldId": "wrld_00e488f3-bc34-4d03-afac-e154a7ecf858",
+      "name": "Venice Basilica Salute",
+      "path": "images/wrld_00e488f3-bc34-4d03-afac-e154a7ecf858.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 103693,
+      "sha256": "deca66f4715176990f030fac45f369a71099fafab645c8516a7de1087f1656db",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_00eb6e90-edb1-4a1f-a342-fdc74e762a1b",
+      "name": "地下鉄二条駅３番出入口で遊ぼう（通学体験）Nijo Station Exit 3",
+      "path": "images/wrld_00eb6e90-edb1-4a1f-a342-fdc74e762a1b.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 98799,
+      "sha256": "49f2b960828157b15887272b968d02f51ab97b6efc995b2afdad94cc4ce5c72e",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_017cd69f-254d-4fc8-9389-9204e6fc9b5c",
+      "name": "Sponza 2",
+      "path": "images/wrld_017cd69f-254d-4fc8-9389-9204e6fc9b5c.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 99889,
+      "sha256": "d815b3427104c2401796234c8084a238108174ee0459c46242cd85d79b7da2e2",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_0290c521-03ce-44c6-9614-999bce642e77",
+      "name": "田村酒造場 Japanese sake brewery",
+      "path": "images/wrld_0290c521-03ce-44c6-9614-999bce642e77.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 122707,
+      "sha256": "733b94d1ac605b20d8641ddd85431f4feb5b346ce3fef8773f92613d7ba4d6dc",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_03336fb3-c528-4861-b05d-ff8e2f6c064f",
+      "name": "筒石駅 Tsutsuishi sta․",
+      "path": "images/wrld_03336fb3-c528-4861-b05d-ff8e2f6c064f.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 80324,
+      "sha256": "a22187a6082b0ba025aff76f7f8d27df00ee2726804ad5a906a652257fb09e25",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_04207cf1-a35a-441c-b27a-698d8b14975e",
+      "name": "Ricenz Apartment",
+      "path": "images/wrld_04207cf1-a35a-441c-b27a-698d8b14975e.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 81447,
+      "sha256": "d3793d8bda300ef9b9e0ed077ab33a880b699db9aa7c82cb5acdfeb826cfb2d9",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_04c022ae-5f37-46ff-9f48-fe6f180e3d42",
+      "name": "3DScan 名古屋駅から名鉄百貨店前まで",
+      "path": "images/wrld_04c022ae-5f37-46ff-9f48-fe6f180e3d42.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 101711,
+      "sha256": "e884c8f09b41e6b8e05d373b2a62967daa49d105130ee6328f7d976ea09b289f",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_05c5ec08-1ee9-4b19-81fb-da906ddd3c64",
+      "name": "大津市堅田の高架下",
+      "path": "images/wrld_05c5ec08-1ee9-4b19-81fb-da906ddd3c64.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 75387,
+      "sha256": "a397d161ae813a08f4045ed64a1df7b500d61d123baa7cdb30e50eb1f4452924",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_06b351fa-106d-411f-a318-af497e3802a5",
+      "name": "Nakagin Capsule Tower - 中銀カプセルタワービル",
+      "path": "images/wrld_06b351fa-106d-411f-a318-af497e3802a5.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 69983,
+      "sha256": "0f1a08ad7f0bdb502d5ce518ceb48ffe487fabe2aceea84510014dbc0342e6fe",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_079e59a7-5a30-4a2d-ac99-22b0835fe946",
+      "name": "Zeniarai Benzaiten Shrine -Day-",
+      "path": "images/wrld_079e59a7-5a30-4a2d-ac99-22b0835fe946.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 122396,
+      "sha256": "9351c15aceb9d83acb7e66349b080900d7af55fa5713fe9329c7ebade8c14596",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_08696fd0-48d8-44e7-bc76-a8b228aff871",
+      "name": "Saint Peter's Basilica",
+      "path": "images/wrld_08696fd0-48d8-44e7-bc76-a8b228aff871.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 101802,
+      "sha256": "59910ecf5beef25bfd23ac89dd9537b35312836124723bad34a4a70216365262",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_093e3b71-560b-4381-9d10-4bd231a19796",
+      "name": "バーチャル北陸",
+      "path": "images/wrld_093e3b71-560b-4381-9d10-4bd231a19796.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 66679,
+      "sha256": "ffc69f262c3206290de111f52c90f3a75c7fbb3ebba4cfd8eb9d5330465a6e5a",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_0acdcfec-3b7b-4b17-8d39-84c6fca83c32",
+      "name": "九龍-kowloon-",
+      "path": "images/wrld_0acdcfec-3b7b-4b17-8d39-84c6fca83c32.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 37486,
+      "sha256": "a8e12f8eef2daaaa4159bafe53a4a200765fc0ef373e8fad2928ec128da09f66",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_0baca5eb-72f0-4b4d-9620-d2ae92c854d2",
+      "name": "Spirit of India",
+      "path": "images/wrld_0baca5eb-72f0-4b4d-9620-d2ae92c854d2.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 111738,
+      "sha256": "a79a153ab801f4a0a05ed1e5a088dc34d1bd2b575411025629686f57585a8d10",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_0c6d001a-87b1-4bc1-be0d-bf0c1d14353f",
+      "name": "World Trade Center",
+      "path": "images/wrld_0c6d001a-87b1-4bc1-be0d-bf0c1d14353f.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 88371,
+      "sha256": "92062d74ce11398d948e223c84f03b644d0f334f48879c631fae954646962778",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_0d0f810a-0920-476d-9658-7980543c114a",
+      "name": "Machu Picchu",
+      "path": "images/wrld_0d0f810a-0920-476d-9658-7980543c114a.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 80676,
+      "sha256": "61ee093ede4fc36546ecfbbb4e0a2e366b79b192c425c91db4c9b576a4389010",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_0dea0bc0-9bb5-49b4-ad98-25a039e08e17",
+      "name": "Awashima_KamayaPort",
+      "path": "images/wrld_0dea0bc0-9bb5-49b4-ad98-25a039e08e17.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 91337,
+      "sha256": "cb66d64aa2eca48ae4f1573fddc565fc5877ff9ef6c1c11eb5929e5d49ef1ffa",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_0e87926c-1447-4916-a02d-1bbef022e772",
+      "name": "3Dガウシアン 北海道 元和台海浜公園",
+      "path": "images/wrld_0e87926c-1447-4916-a02d-1bbef022e772.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 117135,
+      "sha256": "4741cb1a2daebae796dae468460a050ceab45e71e131992453822c2a21e99199",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_0f384062-d620-43d2-af4a-77061b84d157",
+      "name": "The Mastaba of Menna",
+      "path": "images/wrld_0f384062-d620-43d2-af4a-77061b84d157.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 82019,
+      "sha256": "8fa6a5d659ba995cad2561be5d5900f46990d9d7d9b19f40b08ac0bca6516cae",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_1247aa9a-a86a-42ff-b1a4-7a8055424a50",
+      "name": "Yokosuka Museum of Art -横須賀美術館-",
+      "path": "images/wrld_1247aa9a-a86a-42ff-b1a4-7a8055424a50.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 67485,
+      "sha256": "99e754fb54dc738b383ed2a1121d64cc489cf428235f7fe5166257434bc3b126",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_12fb7f02-9a97-4248-82e5-b156476fe4f7",
+      "name": "London Street",
+      "path": "images/wrld_12fb7f02-9a97-4248-82e5-b156476fe4f7.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 76738,
+      "sha256": "91abadabedfc8f185126b33adc4155979c14b71918081db1890bd29149755f06",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_13c575d2-c425-446d-8a3a-1c2cf5db69d7",
+      "name": "Splat Valley",
+      "path": "images/wrld_13c575d2-c425-446d-8a3a-1c2cf5db69d7.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 105819,
+      "sha256": "cd493cd136aa2b618ad76068ed3f3fa6da4b45191acb22ee45257ccb06070021",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_13d3626f-cad1-45d1-abed-e14f972f749e",
+      "name": "Vietnam˸ Ha Long Bay？",
+      "path": "images/wrld_13d3626f-cad1-45d1-abed-e14f972f749e.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 83478,
+      "sha256": "3d07c048b2c388141ae5cee2ffdc578884fb536504e753d2a0a5b5039c6fba92",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_144a7a7a-e002-48ce-90c3-603418f8ba29",
+      "name": "Sagrada Familia Forever",
+      "path": "images/wrld_144a7a7a-e002-48ce-90c3-603418f8ba29.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 109678,
+      "sha256": "aa25fe7a8b67c7b291e74a70646b62620391bcf35aa08d0fe0b759a1cfa1cf2e",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_146ea52b-02fa-4ecf-a32b-79f9cf5c65dd",
+      "name": "Mt․Hakodate",
+      "path": "images/wrld_146ea52b-02fa-4ecf-a32b-79f9cf5c65dd.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 71201,
+      "sha256": "7455a033bdea651f214514f27ab874e80b38dc5cfe07359e5412e5e416f6f7c5",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_14965d4e-f598-4876-ab00-94dc8af3a88b",
+      "name": "Prague‚ Wenceslas Square",
+      "path": "images/wrld_14965d4e-f598-4876-ab00-94dc8af3a88b.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 90001,
+      "sha256": "132a0186ca1a533cdfec210be8660fcc89b2c33ccae1b56211762988232898e8",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_154d72a0-0a7f-4d2e-b306-192a131b143c",
+      "name": "Hatshepsut's Temple ＆ Mortuary Complex Ancient Egypt",
+      "path": "images/wrld_154d72a0-0a7f-4d2e-b306-192a131b143c.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 56905,
+      "sha256": "23692b5905f1f8d336210f237f6489d68a445f79297d6b7b011ad8d00ee2d6b0",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_1643d0ee-76a7-491a-a5f0-0064c5906b61",
+      "name": "京都市考古資料館",
+      "path": "images/wrld_1643d0ee-76a7-491a-a5f0-0064c5906b61.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 81345,
+      "sha256": "7671ba05a61f7f6707c771766edaa7f0187509896866cb6197a7cdfda7ccbc39",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_16bf43c8-24f2-4d68-b2aa-ef2e6b30344a",
+      "name": "Tuscany",
+      "path": "images/wrld_16bf43c8-24f2-4d68-b2aa-ef2e6b30344a.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 87458,
+      "sha256": "1105a551e509c72a186e9d6d35dfbcef0025cce66601dc19f0fddd742c7e5d05",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_17bdbeb5-a676-4f08-8b79-8b734e1bf4c3",
+      "name": "EVEREST WALKING SIMULATOR",
+      "path": "images/wrld_17bdbeb5-a676-4f08-8b79-8b734e1bf4c3.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 55862,
+      "sha256": "9dc4fc7845d9161c01b88b45ca1c5866c8c71d90a5b7777e4ff68797f692f615",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_1910230f-ffd7-4d5a-bc86-7ddd6bd1cc10",
+      "name": "Forum Romanum",
+      "path": "images/wrld_1910230f-ffd7-4d5a-bc86-7ddd6bd1cc10.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 79783,
+      "sha256": "2a870b90a18089932811b8a7fd8fabbed4df5faadc9d6373c2d2d54a09158cde",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_1a280ffd-b3d3-499a-9088-6a46bbf67f84",
+      "name": "インスブルック Innsbruck",
+      "path": "images/wrld_1a280ffd-b3d3-499a-9088-6a46bbf67f84.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 80871,
+      "sha256": "dd0797f61cf185cf69492276d4830a94950024712b795a9632379e48f4106233",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_1bf0bef3-7e6b-4c13-a883-fa81d8e26653",
+      "name": "Atomium Belgium",
+      "path": "images/wrld_1bf0bef3-7e6b-4c13-a883-fa81d8e26653.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 98973,
+      "sha256": "807197dd83004fbae2ba94a040a466368aba6b4fdeb7620dcbb3154aaac80e94",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_1c294e10-6869-4e51-9629-1d3de358765b",
+      "name": "Tokushima Udatsu",
+      "path": "images/wrld_1c294e10-6869-4e51-9629-1d3de358765b.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 96892,
+      "sha256": "a341b5a0894016f013de8d874be6a6c72980121b65a8c4c007697f610a0a08a5",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_1c3aa974-871a-4ce4-81fc-06d682a55724",
+      "name": "November 2017 Hub",
+      "path": "images/wrld_1c3aa974-871a-4ce4-81fc-06d682a55724.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 85561,
+      "sha256": "a876a6dcb9eef5c6910c8609caaeb38d1591bf9faab7e6cdc5d25d5ad71182e9",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_1c446a3b-5e62-4ea8-8b19-369d8e938c8b",
+      "name": "Colmar Town",
+      "path": "images/wrld_1c446a3b-5e62-4ea8-8b19-369d8e938c8b.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 104737,
+      "sha256": "a07fdc910c9effea811e7cb12301c137ba14432e46e4c5454cd7b41601b688cd",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_1d1b2150-2d0d-4c01-bb4b-3cff4e8900ee",
+      "name": "NUS Utown",
+      "path": "images/wrld_1d1b2150-2d0d-4c01-bb4b-3cff4e8900ee.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 26231,
+      "sha256": "c074fc118fb2337be43c467eee87b5a316a6f8551c7a05156d6f0df200686728",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_1dcd649c-65fc-47bc-922c-b5be42db260f",
+      "name": "Sant Joan de Boí․ Vall de Boí",
+      "path": "images/wrld_1dcd649c-65fc-47bc-922c-b5be42db260f.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 100213,
+      "sha256": "24a40cb9852a2fb2992def166d39690ffb03a7ee5c876f5a9249a8545a97d39f",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_1e74da75-a71f-4c5d-a42e-02f0e52200ef",
+      "name": "Straya Beta",
+      "path": "images/wrld_1e74da75-a71f-4c5d-a42e-02f0e52200ef.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 89901,
+      "sha256": "e2082e49a127582848fe1450197765f89e10b6f839c5351888b74cbf250642e5",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_1eb0a308-7660-4424-a49b-aab6861453d3",
+      "name": "Wave Rock - Australia",
+      "path": "images/wrld_1eb0a308-7660-4424-a49b-aab6861453d3.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 82592,
+      "sha256": "7512d8a245d62af66d63cbfef80bc710217489d1947ae0379d3a8185e1f4f885",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_1f0879f2-c17d-442f-89fc-dd252591e29a",
+      "name": "Turquoise Bay",
+      "path": "images/wrld_1f0879f2-c17d-442f-89fc-dd252591e29a.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 70211,
+      "sha256": "d20eb037754867eb6a512717392674a7e178154f4b601fe377f231b7bfb2b6bd",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_1f08de2b-7743-419a-a407-56533d11ea46",
+      "name": "The Roman Colosseum",
+      "path": "images/wrld_1f08de2b-7743-419a-a407-56533d11ea46.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 71850,
+      "sha256": "50ef75e053e6783cc08f85b9d414b40f0a6500c30a8ead406c2345301ecde698",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_20aad75a-fc5f-4d58-8b2e-612d9050f3bc",
+      "name": "서울1호선（Seoul Line 1）",
+      "path": "images/wrld_20aad75a-fc5f-4d58-8b2e-612d9050f3bc.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 93879,
+      "sha256": "6dad60c2096c8cb81f955ec47c11b343f53d2c7810d4cc1f6aeb80184745698e",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_2208edd0-8f88-4e4d-82c8-915f8cdb4d1d",
+      "name": "PARALLEL SHIBUYA MIYASITA PARK -BLOOM YOUR FLOWER-",
+      "path": "images/wrld_2208edd0-8f88-4e4d-82c8-915f8cdb4d1d.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 104157,
+      "sha256": "5cbd7ffb055515adec35ff836bba647ea487f30ba460ad819ab5a0488d702b06",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_222b0d34-15e5-4fe0-b110-0e42740ba068",
+      "name": "Virtual Canada",
+      "path": "images/wrld_222b0d34-15e5-4fe0-b110-0e42740ba068.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 48188,
+      "sha256": "29a4ff6610512162fc8a26aa7affc611009cb119c7f1f79ddbf6a15d71bd6642",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_22ca6520-accf-421e-94e1-daadbed157fc",
+      "name": "istanbul",
+      "path": "images/wrld_22ca6520-accf-421e-94e1-daadbed157fc.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 103313,
+      "sha256": "9bf70de002a6c19ee925564c93805b59e2fc7c68e03dc9fca0cf8fdba3f7599b",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_22fdc807-1d8b-48ca-a9cd-fce70f07566f",
+      "name": "Memories of India - Ride to Nowhere",
+      "path": "images/wrld_22fdc807-1d8b-48ca-a9cd-fce70f07566f.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 46751,
+      "sha256": "3e127a168621faf526fd567727fdc404bede1e2f13b0a588aaeab301d7741250",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_23068b7d-c042-4b19-be6c-d908967f5a75",
+      "name": "YUMORI ONSEN HOSTEL（ROOM508）",
+      "path": "images/wrld_23068b7d-c042-4b19-be6c-d908967f5a75.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 86556,
+      "sha256": "64b96462fcad473ad2f3a9de3c254fc4d2134549428a2a286bf60bc4a8a58242",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_23cc04e1-0c54-4747-9231-99deb27c5faf",
+      "name": "Bali",
+      "path": "images/wrld_23cc04e1-0c54-4747-9231-99deb27c5faf.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 100815,
+      "sha256": "fedd2370bd5943f04dfdb45e775c91778c532889c87ba03d6218b6e9c342f03e",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_24a5fc03-822e-4d26-b4bd-98620508f9d7",
+      "name": "志賀の大仏 -Stone Statue 「Seated Amitabha」-",
+      "path": "images/wrld_24a5fc03-822e-4d26-b4bd-98620508f9d7.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 108336,
+      "sha256": "6b08d99b07da7a91cc5fc55968cc051228366b19c05398f470ef7aebd7c0b05a",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_29629acb-f0d2-4248-a423-c502a569e7b4",
+      "name": "한국 시골 ［Korea Countryside Night］",
+      "path": "images/wrld_29629acb-f0d2-4248-a423-c502a569e7b4.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 60767,
+      "sha256": "ce8ac58a87f5b78003df784e38fd5acc53ea6fdeea56d4ab6fd5458933ed08cf",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_29cf640a-5c84-4a61-b954-559809a69880",
+      "name": "双葉水辺公園 ［ 3DGS × Photogrammetry ］",
+      "path": "images/wrld_29cf640a-5c84-4a61-b954-559809a69880.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 105017,
+      "sha256": "94d2f0426198dde11ab5588825883ed6eccc2a3c6361d150b55ebb9e7474ee27",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_2a13fa9e-c78c-46bd-a0b2-bf74eca3c52b",
+      "name": "Roman Colosseum",
+      "path": "images/wrld_2a13fa9e-c78c-46bd-a0b2-bf74eca3c52b.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 94924,
+      "sha256": "ef3d9a7a2f31b3fdae8dae3ed52839eea7c0d63c6b891933e320b0dc47ecdcd6",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_2a247e1d-34fd-4d3c-9113-044fef622c79",
+      "name": "八戸公園こどもの国-クリスマスイルミネーション",
+      "path": "images/wrld_2a247e1d-34fd-4d3c-9113-044fef622c79.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 97826,
+      "sha256": "3fafed10758c55d91af7dcf80632957001f5d78537151dcd85eddce2fcb2db2d",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_2ad1b711-4a25-4a1f-9254-83e1cc934040",
+      "name": "Desa Way Mulya（Night）",
+      "path": "images/wrld_2ad1b711-4a25-4a1f-9254-83e1cc934040.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 82303,
+      "sha256": "c497ac0d7f41cdfd4f2e19d2d81b09053120d9d930d1991e1b8a7fa75c114401",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_2ae70243-6000-4943-ac77-64981f2f6fba",
+      "name": "NYC Freeman Alley （Render）",
+      "path": "images/wrld_2ae70243-6000-4943-ac77-64981f2f6fba.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 115779,
+      "sha256": "42bfd1931f25d4682c0c9e73a2240ad53bb10f10a62a932c1a8ce7b997fbdfe9",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_2b4db07a-862b-4ddc-bada-3c7f9161a929",
+      "name": "Abandoned Fukuchiyama Line VR",
+      "path": "images/wrld_2b4db07a-862b-4ddc-bada-3c7f9161a929.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 116189,
+      "sha256": "7946ea4f98033b638142283dbbb5a6ac64c3cce4354713d9e27c6d710bd91555",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_2baab36c-da13-4d27-8cf7-b36fc831f4bc",
+      "name": "Reuan Thai ⁄ เรือนไทย",
+      "path": "images/wrld_2baab36c-da13-4d27-8cf7-b36fc831f4bc.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 76475,
+      "sha256": "63f50abf1ccfcfec64d5c7180c5ffb21afb20d3717775cdbe6f04684cfcb590b",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_2d3792b2-025e-4c6a-b332-9eb0dd60b37a",
+      "name": "Manilaverse",
+      "path": "images/wrld_2d3792b2-025e-4c6a-b332-9eb0dd60b37a.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 63879,
+      "sha256": "eb69c347edb2af3baeeb05870557d54db69637c1a4e082a4c24be0661ad04916",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_30b97128-3d2f-4b2e-8db0-3b472c61ed05",
+      "name": "Moroccan Riad",
+      "path": "images/wrld_30b97128-3d2f-4b2e-8db0-3b472c61ed05.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 94381,
+      "sha256": "0cbb3d5a6e02d8d030ebe1cfe362e9487ee59048224c5756c5bcf6db1d2cc27f",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_30d80f8d-6668-4df8-bcd0-d0f5b7827c1c",
+      "name": "Tank Road 1929",
+      "path": "images/wrld_30d80f8d-6668-4df8-bcd0-d0f5b7827c1c.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 88991,
+      "sha256": "84fb3ae3653ee4bb6bfb0f53ef53d826bd96f4350d974f6beb48013a25f0a612",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_3134e231-a8e7-4827-9d32-5390a8e377c4",
+      "name": "Moscow Trip 2002-Night Tram （v 5․3）",
+      "path": "images/wrld_3134e231-a8e7-4827-9d32-5390a8e377c4.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 98195,
+      "sha256": "b1de8e9c5fe9a3ad7d4ae2778e3850332ba77b75c3c293600c85357b7208a717",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_32178e1a-56f7-45c0-82e3-1b566c832079",
+      "name": "Singapore Marina Bay",
+      "path": "images/wrld_32178e1a-56f7-45c0-82e3-1b566c832079.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 86114,
+      "sha256": "5eabfbd979cb03e12a0bea6800d61169e489c3164309ecb68a13fd5e47158072",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_324f6097-f049-4349-9a7d-3bef95d12fd2",
+      "name": "Hyosetsu Gate In Wakkanai",
+      "path": "images/wrld_324f6097-f049-4349-9a7d-3bef95d12fd2.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 82226,
+      "sha256": "38587f85630a0bbc54747c4aaaef1e3414aa06b57220f4a2593e5a58e33f4302",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_33be2a4b-25c7-4a4c-8b92-fe3fc6362c2c",
+      "name": "Telkom University‚ Bandung （Photogrammetry World）",
+      "path": "images/wrld_33be2a4b-25c7-4a4c-8b92-fe3fc6362c2c.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 91187,
+      "sha256": "e88039f99e4b7dcb64618a9b0bf9d5edb7cc0adfa6b14b84994e17b800e76ab4",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_33e42ba4-3a0d-4692-acb4-5e68d95aaf1f",
+      "name": "Finnish Parliament House",
+      "path": "images/wrld_33e42ba4-3a0d-4692-acb4-5e68d95aaf1f.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 72336,
+      "sha256": "70a2927b6f1993097ed539bf64d3b288b0a50d501b9d95a3ec43e8cbfe6df9d8",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_33f0d78c-3119-47d7-a2cc-a5739f0e1dc4",
+      "name": "Moroccan Desert at Sunset",
+      "path": "images/wrld_33f0d78c-3119-47d7-a2cc-a5739f0e1dc4.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 76690,
+      "sha256": "24d44fc19d84e39da25715dac662d23ebb666b420af4d4109d8e31c0710186f4",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_3428fb8d-164a-4a65-ac76-5751ca34ed41",
+      "name": "Boracay",
+      "path": "images/wrld_3428fb8d-164a-4a65-ac76-5751ca34ed41.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 75157,
+      "sha256": "beb08f055e08c26bcddd882580792ffebcc430cb594b22efb633ad393f566275",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_344f199f-8362-4788-9150-9b19bd7c8c57",
+      "name": "VRCすえひろ亭 -Suehiro-",
+      "path": "images/wrld_344f199f-8362-4788-9150-9b19bd7c8c57.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 65354,
+      "sha256": "e8da7abc51a9bbbd0354375f61d9b78ef40d20740ecc06d6a7686bdff7bb9223",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_3516923c-8acb-4213-9465-1b1fd195240a",
+      "name": "3Dガウシアン 道の駅「なとわ・えさん」",
+      "path": "images/wrld_3516923c-8acb-4213-9465-1b1fd195240a.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 104485,
+      "sha256": "2e9cdaf559c5aafd266c96c3c6ab2d86ae19d17688806e3fadf4679d5af2c309",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_37255f59-c16f-4b6f-94b3-35620daad2f2",
+      "name": "Torre Belvedere （Belvedere Tower）（WIP）",
+      "path": "images/wrld_37255f59-c16f-4b6f-94b3-35620daad2f2.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 53693,
+      "sha256": "1450328d19bbded33d4ecd63b2668a99195e03410c2c12076f7f85b3f90df37b",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_380e225a-ccc7-4966-96ce-234f63e0a69a",
+      "name": "Ushnu of Vilcashuamán",
+      "path": "images/wrld_380e225a-ccc7-4966-96ce-234f63e0a69a.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 87026,
+      "sha256": "abb666fc66d8f21afc169b4a6c592248799f60d0807bf152c66000a1bb368164",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_381957a0-0835-41e6-ba27-8ec4d88bc5aa",
+      "name": "みとうさんぐち駅2021 Abandoned Ropeway",
+      "path": "images/wrld_381957a0-0835-41e6-ba27-8ec4d88bc5aa.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 110015,
+      "sha256": "899f4576d0d6d76d439beb772b10e73f646e33c47cada9cdb595e04309afea02",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_3a9c7543-24aa-41ed-8607-54392c239042",
+      "name": "Moroccan Riad （night）",
+      "path": "images/wrld_3a9c7543-24aa-41ed-8607-54392c239042.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 59418,
+      "sha256": "99654999ade5aa4324d032eebd11b3bfe274b484a15249e8887ae440e8bd8401",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_3b0b199e-f8e4-4bc0-8d02-299520480e2e",
+      "name": "Turkish Hamam",
+      "path": "images/wrld_3b0b199e-f8e4-4bc0-8d02-299520480e2e.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 90559,
+      "sha256": "0bd26a03f16a3ded733c2b613177d633d0908b70cbb804e9ad97817c557584dc",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_3b125335-f575-4b21-8aa6-9ad70072ca16",
+      "name": "幻想夜景の遊覧飛行",
+      "path": "images/wrld_3b125335-f575-4b21-8aa6-9ad70072ca16.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 99080,
+      "sha256": "329d530e0a72f2953a0f5687e484ed33050e59e8f89cebe20ae12bfd9add01ba",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_3d0235df-43b4-4aaa-b759-11833c945274",
+      "name": "Dormitorio de Carlos III",
+      "path": "images/wrld_3d0235df-43b4-4aaa-b759-11833c945274.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 116124,
+      "sha256": "074e49098f9e4275cbb424a131d75f60f0fe2c37fad009f0b7ed73f070eebc85",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_3d335599-c9ea-4954-ae08-f3afc798dbd9",
+      "name": "London",
+      "path": "images/wrld_3d335599-c9ea-4954-ae08-f3afc798dbd9.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 95670,
+      "sha256": "6dbd2d734b5398e39064110d88f1e15ca1556b813a851455380302201a948ced",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_3eefbffd-65f8-4123-82a3-4f9775921c49",
+      "name": "北海道ドライブ ⁄ Hokkaido Drive",
+      "path": "images/wrld_3eefbffd-65f8-4123-82a3-4f9775921c49.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 90618,
+      "sha256": "aeac9999a79aec27099569217c075045bf5796fb9f64d81a718d01d6376d6469",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_40c04871-dd5f-411e-9d3c-d9ec97b8b9cb",
+      "name": "VR Matsumoto airport《RJAF》《MMJ》",
+      "path": "images/wrld_40c04871-dd5f-411e-9d3c-d9ec97b8b9cb.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 71914,
+      "sha256": "813953caf69ea9df81abf81e9417be2fd76a780932844d552e0563bf7cabf227",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_42e82531-a629-4e84-aaec-263bcefd133c",
+      "name": "Machu Picchu",
+      "path": "images/wrld_42e82531-a629-4e84-aaec-263bcefd133c.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 92794,
+      "sha256": "996f6eddc9e01ca18bbe5da40112373aa680b5b7fb7d5fe6ae35d8c1a2c40dcb",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_42f8e9a7-2368-4aa8-b1a9-17c1cfbc1e99",
+      "name": "Kawagoe KoEdo",
+      "path": "images/wrld_42f8e9a7-2368-4aa8-b1a9-17c1cfbc1e99.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 99535,
+      "sha256": "177dc0d4b9a3c3597c04f2c1535254b8067d691dedfae787071d1d2bc2867624",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_43035402-e78d-4768-a21a-486b82d4f101",
+      "name": "Cappadocia Balloon Adventure",
+      "path": "images/wrld_43035402-e78d-4768-a21a-486b82d4f101.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 92022,
+      "sha256": "40680d97deb8377092395fbbc40e98016466fdacc9a181e51e69aa55265e325e",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_43a93e9f-c7ec-4dcc-af1a-6a1e0a35cf3f",
+      "name": "Gelora Bung Karno",
+      "path": "images/wrld_43a93e9f-c7ec-4dcc-af1a-6a1e0a35cf3f.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 81745,
+      "sha256": "a526598839bfe88c3edff1f1a149cd922db4de9634ba80bec85a2baffddba1dc",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_43c441b0-2d8f-4375-a58e-3f53fd826136",
+      "name": "Berlin Tiergarten （WIP）",
+      "path": "images/wrld_43c441b0-2d8f-4375-a58e-3f53fd826136.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 54589,
+      "sha256": "486c4e6475b65e71120cc0e20dc43335fd95c03440a3e3ae970e769a6eb0cdff",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_44073a83-8d8a-4fc8-817b-cd754e1ccbf6",
+      "name": "Temple of Egypt",
+      "path": "images/wrld_44073a83-8d8a-4fc8-817b-cd754e1ccbf6.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 68367,
+      "sha256": "d3609f07cde9fba4171d8868ebe0e6c3b1b7511b4ad9b12c02629c16a1e04284",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_44507615-6736-4120-8088-b6d29042acce",
+      "name": "Skara Brae",
+      "path": "images/wrld_44507615-6736-4120-8088-b6d29042acce.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 105306,
+      "sha256": "7f15ae5dd8cdb7f0072d11a302c1c550f30ed3b7287aa452d974f1163ae38887",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_44d13dec-ad6d-4cae-b50c-5a669a547d37",
+      "name": "Santuário do Sameiro",
+      "path": "images/wrld_44d13dec-ad6d-4cae-b50c-5a669a547d37.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 84000,
+      "sha256": "45361c4eff3b1a2a95bb90fcdc7e2e11861124a91cfbcc6de925629f5556523e",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_478e6977-208f-492e-bf93-0a57afa69256",
+      "name": "Fin del Mundo - Ushuaia Penguin Tour",
+      "path": "images/wrld_478e6977-208f-492e-bf93-0a57afa69256.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 37529,
+      "sha256": "0edaa067ea341d0b94c541b6e265b6575d5eb84fe9d7b89d070d7e8b44940cb0",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_4892f3f7-2ba0-47af-aad3-2e7a1b63d0e6",
+      "name": "Re˸collection - リコレクション -",
+      "path": "images/wrld_4892f3f7-2ba0-47af-aad3-2e7a1b63d0e6.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 56657,
+      "sha256": "cd275e519337596a15308d7db2de07dcb860af25e730d849e868a1863ed07d69",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_49fd7208-cf5b-49fe-9da3-4517ed524229",
+      "name": "Cottage at Lapland",
+      "path": "images/wrld_49fd7208-cf5b-49fe-9da3-4517ed524229.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 76341,
+      "sha256": "a8b73261ae3b2fbd5525389a6c5e968f0cc2a298d8a5f81abeaace159f7a0919",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_4a39e441-5186-4573-8784-a65b6a726340",
+      "name": "CAVE OKINAWA",
+      "path": "images/wrld_4a39e441-5186-4573-8784-a65b6a726340.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 111898,
+      "sha256": "0531a9ea6956f12a3c5776f5f126e5631405e82f897a3a3ab7a053332d815de3",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_4b338a79-c7b8-4d52-8d65-0aa461825555",
+      "name": "Train Ride In Hokkaido 北海道で電車に乗る",
+      "path": "images/wrld_4b338a79-c7b8-4d52-8d65-0aa461825555.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 73340,
+      "sha256": "6f329ae9991f2d28b5d2529b72c4a1181935643a80cb0b3e255c8083107682a7",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_4c60a323-3512-4450-afc2-edb4f16f4f69",
+      "name": "Madrid 1980s",
+      "path": "images/wrld_4c60a323-3512-4450-afc2-edb4f16f4f69.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 88055,
+      "sha256": "885e3e9d6a51f90d6cbdf05bab5c6258fe55867a02dddcfb085017f3c2c49fae",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_4dbf4bdc-96d2-4b31-a101-470691da6542",
+      "name": "天に続く道 The Road to Heaven",
+      "path": "images/wrld_4dbf4bdc-96d2-4b31-a101-470691da6542.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 75509,
+      "sha256": "4df4500791c1626697bc36d2a4567ac403e04ce229ff3614558b9e760b194813",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_4dfe26f3-7639-47bc-bc4e-1c6ff287b719",
+      "name": "Busan Waterside Park",
+      "path": "images/wrld_4dfe26f3-7639-47bc-bc4e-1c6ff287b719.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 67969,
+      "sha256": "320624aee612ad5ba5a2946b8fe04a5076bed9027681a293d9f93ec2871b06b4",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_501593cc-a1f8-435c-99b1-dee0a1021a8f",
+      "name": "仙台 アーケード商店街 フォトグラメトリ",
+      "path": "images/wrld_501593cc-a1f8-435c-99b1-dee0a1021a8f.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 111957,
+      "sha256": "1f23f8aebe64ab7f5f65acd6980da81d019de59bd826a97d77caf273cc7a16e2",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_510cbebe-19f1-4bc9-bcab-bda296bb2400",
+      "name": "Cappadocia Dreams",
+      "path": "images/wrld_510cbebe-19f1-4bc9-bcab-bda296bb2400.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 88780,
+      "sha256": "0018188711ac7e53715ebba00f6f7cdbf1cf3e345aee1aff6bfefb07d4559fab",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_53c6358f-143f-49cf-851d-72302e3db7fe",
+      "name": "Neuschwanstein Castle",
+      "path": "images/wrld_53c6358f-143f-49cf-851d-72302e3db7fe.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 81311,
+      "sha256": "04d4d13e547f6e594262d188ea8b4b3db4c2132f95220e40a4ff3bc08faf3b42",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_53f39b47-6693-4e0f-b320-653de40ecb25",
+      "name": "Southbank Undercroft Skatepark",
+      "path": "images/wrld_53f39b47-6693-4e0f-b320-653de40ecb25.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 90464,
+      "sha256": "dfe3fb707c745d5c7b55c715cca75591125bf64afb79c80990ee92c2940b1aa3",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_543baea4-b7ca-4cf9-b598-c7230f02f439",
+      "name": "Chon Na Bot",
+      "path": "images/wrld_543baea4-b7ca-4cf9-b598-c7230f02f439.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 121774,
+      "sha256": "deea968260e961cbc2db1798eb3702d8cebbab6cafe6c24dfc648e4519b49b96",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_58c05f3a-be7a-442e-bdb1-06695eac9f0c",
+      "name": "Garut‚ Indonesia （Photogrammetry World）",
+      "path": "images/wrld_58c05f3a-be7a-442e-bdb1-06695eac9f0c.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 35795,
+      "sha256": "93b262eb2e315391a1c01cf2b515e5ece99393cb50d8f5c3f2250398ce5913b5",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_5943f38e-f8ec-4e59-bada-1145b02a0a84",
+      "name": "名古屋 大須商店街 フォトグラメトリ",
+      "path": "images/wrld_5943f38e-f8ec-4e59-bada-1145b02a0a84.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 111780,
+      "sha256": "3dddf4af4868e60eed26f190b24f554037b81cb2380a50777ee40896937ea198",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_5c0217f0-953c-4add-90fd-6d2dc11289ff",
+      "name": "360camera_Akiba_MaidStreet_20250629",
+      "path": "images/wrld_5c0217f0-953c-4add-90fd-6d2dc11289ff.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 100751,
+      "sha256": "672160372865f631890671bb03940b7fb13bb2b3f6205b55bd68fee278e109c3",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_5c091e61-0f53-4409-ab0a-0fa8a3114806",
+      "name": "Cinque Terre - Marina di Riomaggiore（Night）",
+      "path": "images/wrld_5c091e61-0f53-4409-ab0a-0fa8a3114806.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 84994,
+      "sha256": "609cf79b8beaa6e41c3bc9ae68cf881834bcc0886fd61999e07b4e0223f714c4",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_5c39d0ce-d047-4244-b102-c4b647907d3c",
+      "name": "Kyoto Keage Incline",
+      "path": "images/wrld_5c39d0ce-d047-4244-b102-c4b647907d3c.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 108310,
+      "sha256": "58a31dc4dd76ecd8acf4226f40acfa87bdc2714992ba1c68478a8998807a61a1",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_5c436c47-b897-4852-bde1-d8455153fc0b",
+      "name": "The Innocent Railway Tunnel （Edinbrugh）（3DGS（Splat）",
+      "path": "images/wrld_5c436c47-b897-4852-bde1-d8455153fc0b.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 104707,
+      "sha256": "1ec90c0206bbcf31f89ea4f566a141145d08e133fe319f013416527e09237d4d",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_61304796-f310-462b-888f-e6e3cb8b97a8",
+      "name": "Driving to Cape Roca",
+      "path": "images/wrld_61304796-f310-462b-888f-e6e3cb8b97a8.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 68819,
+      "sha256": "e0dbf83465a9bfe1a12b08411ae43d047e0e6ed2be3ac6f0dd29eb1ff63de006",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_625dd1f3-9782-4839-9894-1f79354f444a",
+      "name": "Belgium - Ostend - Sea Side",
+      "path": "images/wrld_625dd1f3-9782-4839-9894-1f79354f444a.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 62048,
+      "sha256": "fe17bf56e9ee6681641087dab1fb90caca8ea88e70f7b15d52763fd5e5bb68d2",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_62ce0ab9-cab0-4fe7-8fea-aa6ffcfcba76",
+      "name": "Christ the Redeemer",
+      "path": "images/wrld_62ce0ab9-cab0-4fe7-8fea-aa6ffcfcba76.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 80756,
+      "sha256": "17b1e13155df881d3165f9e98550cb9b3820b233560b201a8ac772077a4a72ab",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_632b047a-659a-412a-96b7-37f5d47ccc20",
+      "name": "スーパーカミオカンデ ［Super-Kamiokande］",
+      "path": "images/wrld_632b047a-659a-412a-96b7-37f5d47ccc20.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 97766,
+      "sha256": "6c757b62024c176732c9ae4639cec7cc4adbd67e506cbcf9a5a81c07e6dd39b8",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_67c98ecd-a7c0-4be3-869b-88df28c0b803",
+      "name": "Digital Ueno Park",
+      "path": "images/wrld_67c98ecd-a7c0-4be3-869b-88df28c0b803.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 131569,
+      "sha256": "9f54879980d74a0a3a34e5f9685a1b6be2a3d434c7697a0ac5b6b12fba545c01",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_692acd1c-48ca-436c-8c87-db0e0c4842c0",
+      "name": "Busan Metro Line 1",
+      "path": "images/wrld_692acd1c-48ca-436c-8c87-db0e0c4842c0.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 88210,
+      "sha256": "130a192a522fb428cfc57c80ff888bd246f8f2c14b1ec05227c589d272e03091",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_6a0956a6-2154-4946-a203-4c3e0711d6d8",
+      "name": "Finnish Sauna",
+      "path": "images/wrld_6a0956a6-2154-4946-a203-4c3e0711d6d8.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 48807,
+      "sha256": "9419be79b657e6398ce6678a9ece847dab5359f3ebbfccffc2f4f681e720a688",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_6a0cc645-a582-450c-bf1c-a46ade6192f1",
+      "name": "Indonesia‚ Adisutjipto Airport‚ Jupiter Aerobatic Team",
+      "path": "images/wrld_6a0cc645-a582-450c-bf1c-a46ade6192f1.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 70288,
+      "sha256": "56d30d3c007605b67fe024784af983a447f8cc1ae441871e4a362e60a12b8c6a",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_6b93f5f2-6198-422a-bac9-d4d8b7b1f4f0",
+      "name": "Singapore Marina Bay ［Day］",
+      "path": "images/wrld_6b93f5f2-6198-422a-bac9-d4d8b7b1f4f0.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 80783,
+      "sha256": "e9b8424abb225eb5c3e2105d90c202d94dfb9d1196da8829c397589bfeb481ef",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_6e546a2c-9633-4ddc-814a-5d225fda2e16",
+      "name": "バーチャル北大 -Virtual Hokudai-",
+      "path": "images/wrld_6e546a2c-9633-4ddc-814a-5d225fda2e16.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 75024,
+      "sha256": "8f6c9f526159a75a311d6e9ae50456f3d1504907f53ee6c9fe16628a98b5ec0e",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_6e5a0cf2-9ea4-4ccd-a165-c4b53d2945d1",
+      "name": "Inokashira-kōen Station（井の頭公園駅）",
+      "path": "images/wrld_6e5a0cf2-9ea4-4ccd-a165-c4b53d2945d1.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 115457,
+      "sha256": "f1cabcedbe5be95895b7547ea8975291c9495e1ad0131b4a94bf8f7508fb3f5d",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_736c05f9-1a29-4ef8-b8bb-742d9d857613",
+      "name": "Tristennöckl Mountain Peak",
+      "path": "images/wrld_736c05f9-1a29-4ef8-b8bb-742d9d857613.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 107213,
+      "sha256": "f025d31bf2303745b685fe87957db0705101b4be4ea3ccecc53a54f8d6521e8a",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_740ee9bb-3787-4cef-912e-b0c54262fcf5",
+      "name": "Gur-e-Amir",
+      "path": "images/wrld_740ee9bb-3787-4cef-912e-b0c54262fcf5.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 80197,
+      "sha256": "004f363e7eda98316cc6f8c5c0a0aef3a260616a3082f34002abd2c22fb85b5b",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_748d5dcf-1843-429f-b09c-6051752e8526",
+      "name": "バーチャル広島駅 2․u",
+      "path": "images/wrld_748d5dcf-1843-429f-b09c-6051752e8526.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 104886,
+      "sha256": "1b5e3070e5efcbbb4f9082c3b0d2289862879a24eb2cc327aab59df3192c8a9e",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_76a8f114-90a1-4740-b480-6214334d90d8",
+      "name": "3DScan 名古屋城 Add 3DGS",
+      "path": "images/wrld_76a8f114-90a1-4740-b480-6214334d90d8.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 113680,
+      "sha256": "e44cafe074e7f8a95c163c357b03d86026c3c68acb32df42ae63bc0f41974437",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_7cd23f34-f124-4f19-98fa-ecce2c10e7fa",
+      "name": "Angkor Wat",
+      "path": "images/wrld_7cd23f34-f124-4f19-98fa-ecce2c10e7fa.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 89409,
+      "sha256": "d17481e3b8b563972b77bdab39056b06ca50056033cdfc94878ca3ec6153471f",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_7f05a6b7-0223-488e-90f9-253fb787276d",
+      "name": "Albarracin Village",
+      "path": "images/wrld_7f05a6b7-0223-488e-90f9-253fb787276d.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 100257,
+      "sha256": "cfc3c91b232ba1620b51f57cee4bcfd811a5fab70ea71a39246c57325ad8023c",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_7f29180c-0f9a-4922-beef-403c86bae636",
+      "name": "Golden Town of Ayothaya",
+      "path": "images/wrld_7f29180c-0f9a-4922-beef-403c86bae636.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 89513,
+      "sha256": "fd3ea9bb1291dfe66467a4d8ee037b46f515bd9ab05af9cfe55bf2af51f23d77",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_7f59eba6-a013-46af-ae06-ca4151efa75e",
+      "name": "Oia Lookout",
+      "path": "images/wrld_7f59eba6-a013-46af-ae06-ca4151efa75e.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 65004,
+      "sha256": "67d2f7698f66b890770ad41b847fa654a140d2c0b9403c8cbff2cb223df44cb9",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_80ee52a4-b635-4274-ac8e-cb0bcb13b3a8",
+      "name": "Metro London DEMO v0․4",
+      "path": "images/wrld_80ee52a4-b635-4274-ac8e-cb0bcb13b3a8.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 79779,
+      "sha256": "068193cc91469e3cd0c56a4b05c05799834c2129d905b7a2ddb3eb2353840f44",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_818c447c-7e3a-4a3e-bcb8-8cc8bcda8c9e",
+      "name": "Sydney Operahouse-Australia",
+      "path": "images/wrld_818c447c-7e3a-4a3e-bcb8-8cc8bcda8c9e.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 85961,
+      "sha256": "d32fbf83980eda0741b96b3b55851ee2264af83bbd24654195c3f64d851b2a1c",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_828298ac-9a74-4262-9659-894dda030809",
+      "name": "Avenida Paulista VR",
+      "path": "images/wrld_828298ac-9a74-4262-9659-894dda030809.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 63023,
+      "sha256": "ce32236f424640fecabf8975136541555d6d85b170325f05a47bf350f6dce337",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_82b639cd-5120-478b-8854-e82db0de3d3a",
+      "name": "Fun at Ayers Rock",
+      "path": "images/wrld_82b639cd-5120-478b-8854-e82db0de3d3a.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 88389,
+      "sha256": "3226fbf81e7931a33e8078e82d88df30f259742c9264b56487c85ab81f5de7bf",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_830629a5-1d25-4e37-83eb-7d22eda079ca",
+      "name": "Butron Castle",
+      "path": "images/wrld_830629a5-1d25-4e37-83eb-7d22eda079ca.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 65653,
+      "sha256": "b6fb64bfd2c7447e9355944d33dbe1a2251fb1d1bc4738550c7cd8dab230e834",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_853c9929-53a4-4138-95fa-cfe9edefccc5",
+      "name": "New Old Hub",
+      "path": "images/wrld_853c9929-53a4-4138-95fa-cfe9edefccc5.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 77383,
+      "sha256": "f7a73f5a53a727857bfc122ec6c961ccba7629d450a66bfc40ece7af5add3a15",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_856a581a-55f6-4674-8552-73016c5fc932",
+      "name": "Bom Jesus De Monte",
+      "path": "images/wrld_856a581a-55f6-4674-8552-73016c5fc932.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 87125,
+      "sha256": "49e269ebaa817150df4a6a46534ed7410ba8c919edc45e909aea6b69fd28768c",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_866c6262-2142-4c81-bed7-0a64aa48ca15",
+      "name": "Talad Nam˸ Hemant Thailand Friend＋",
+      "path": "images/wrld_866c6262-2142-4c81-bed7-0a64aa48ca15.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 82402,
+      "sha256": "c0169186f12dc76dd7397d49fda5e532fcbf52444ad781630d8724ade170b18d",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_86b5589b-f679-49f7-ad92-75fdb109943b",
+      "name": "弄堂 LongTang ~Shanghai~",
+      "path": "images/wrld_86b5589b-f679-49f7-ad92-75fdb109943b.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 90950,
+      "sha256": "a6eb519b42020c570355cb9703b9b01d62b2729b46bfdc73a35eec74c862bf53",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_8856a91f-b20f-4a14-be26-00d2b8b1dd3d",
+      "name": "Pyramid of the Sun‚ Teotihuacan",
+      "path": "images/wrld_8856a91f-b20f-4a14-be26-00d2b8b1dd3d.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 73483,
+      "sha256": "60d2d31dc1f192764a242bea88fa4cdf2640ad17be570a5aaba51b13b7a6ddd5",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_8c563942-674c-4773-b187-50eca0feeb59",
+      "name": "JP Okinawa 沖縄フォトグラ土産ワールド",
+      "path": "images/wrld_8c563942-674c-4773-b187-50eca0feeb59.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 100217,
+      "sha256": "1455d48dfeaf19c8f53fd4e7871f993e7aa4b935336b4812cb9da28dab0c753e",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_8dce8e7f-8d71-40e3-98d0-07fe37414f9a",
+      "name": "Kuala Lumpur City Centre Park",
+      "path": "images/wrld_8dce8e7f-8d71-40e3-98d0-07fe37414f9a.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 108839,
+      "sha256": "154ef7318efe6e35fef672e9d206e2c056bfd15050b7aec97e8e860a8f0c9859",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_8e43fda7-e8be-49e5-9f94-5b2fef42c922",
+      "name": "VirtualHachinoheStation（beta）",
+      "path": "images/wrld_8e43fda7-e8be-49e5-9f94-5b2fef42c922.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 67254,
+      "sha256": "4d5d28aa7a36b4d2fd856c94985783def5e4483e6191ba351d95c2b4950fb12f",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_9018b50c-3292-4a18-b5b0-9d45318f4e93",
+      "name": "Espagnolette Bedroom",
+      "path": "images/wrld_9018b50c-3292-4a18-b5b0-9d45318f4e93.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 102608,
+      "sha256": "6678db0a12eee66238e9b4878a54ebbea14265c0faba8dba57ead604d61205d3",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_916e7ac0-5474-46b1-95bd-6b3df865c872",
+      "name": "Raahe Finland",
+      "path": "images/wrld_916e7ac0-5474-46b1-95bd-6b3df865c872.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 87640,
+      "sha256": "a5ce0aca9fdd829f6c932c0f14ec6fab42e9126e5125af7d73d11a6544ac0883",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_91ace9d6-8865-4e57-a1d0-40cf08636659",
+      "name": "Baguio City - Ulan",
+      "path": "images/wrld_91ace9d6-8865-4e57-a1d0-40cf08636659.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 71335,
+      "sha256": "aa542f75aa4b571bd54b5f74cb70051e99328e24a6c234b0d1e3087cef473ae9",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_921ba093-919c-4fb5-9ec3-78a73887ef25",
+      "name": "Cinque Terre - Marina di Riomaggiore",
+      "path": "images/wrld_921ba093-919c-4fb5-9ec3-78a73887ef25.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 96501,
+      "sha256": "95ee1a31492a1b582b1b353bf778591ae0d5be87c91c359312e1079806a17a5e",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_93d114b8-8993-4b70-a1e9-5e4e98258e83",
+      "name": "Hwabon Night（화본역）",
+      "path": "images/wrld_93d114b8-8993-4b70-a1e9-5e4e98258e83.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 67557,
+      "sha256": "4670fca63ef8c2304a405d0926fe449ddd1b3cf377b0f26197bf4c5b3b3bc5e1",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_93f68a05-88b7-400d-af56-84df31727b28",
+      "name": "Suramadu",
+      "path": "images/wrld_93f68a05-88b7-400d-af56-84df31727b28.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 75348,
+      "sha256": "1c4864b1a6bc54438b76390bdf2eeac624021a453510224785f615de51dc3448",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_9409930a-6147-4cef-86da-1c8974a9ed26",
+      "name": "Simpl Optical Illusion Museum",
+      "path": "images/wrld_9409930a-6147-4cef-86da-1c8974a9ed26.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 77022,
+      "sha256": "319ccaa15cdef5f0ab2b969b58a0ff42a91818a2992e5becc8b9c25322a48fee",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_94551dd7-749c-4992-8ddb-d2651abd7f90",
+      "name": "Hong Kong Street （Night）",
+      "path": "images/wrld_94551dd7-749c-4992-8ddb-d2651abd7f90.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 80622,
+      "sha256": "978511c9c2463cbc586b00634ef3351891a45d449489b0b402ab5981c790d80f",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_967f61ae-78ce-45aa-8ee9-68a3b35aa155",
+      "name": "Nijo Castle 二条城",
+      "path": "images/wrld_967f61ae-78ce-45aa-8ee9-68a3b35aa155.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 75666,
+      "sha256": "90fef73c9a1b0c9c3ce10103d0d177b6f6c24bd25e212015e066457ed6e30786",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_96869b23-1484-4a40-a17d-b7d29c0ee962",
+      "name": "深夜の京都散歩 ⁄ Kyoto Midnight Walk",
+      "path": "images/wrld_96869b23-1484-4a40-a17d-b7d29c0ee962.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 89741,
+      "sha256": "906282b7d5015884c73fbc9f1ef458eed6cc2a573571b5deee39c68e8f67ab1a",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_96a8dbea-f7e7-499d-bfab-afbc1d06498d",
+      "name": "粉河町役場鞆渕支所 Abandoned Wooden Town Hall",
+      "path": "images/wrld_96a8dbea-f7e7-499d-bfab-afbc1d06498d.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 84852,
+      "sha256": "b132cc7eb087882a4e0c44be8cfc93771dd053baf763bd7f9d0d1e6283dc3a9c",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_99e74170-0a33-496f-b998-813a783b2db9",
+      "name": "Daikokuyu",
+      "path": "images/wrld_99e74170-0a33-496f-b998-813a783b2db9.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 107796,
+      "sha256": "df760dc2f8bf9e383a7c5242bee68939bd05abedea88e17f928b951076a7a1f5",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_9a28ec36-ad8f-4de0-b76b-e44e5dbbc0fe",
+      "name": "Goa Belanda‚ Bandung （Photogrammetry）",
+      "path": "images/wrld_9a28ec36-ad8f-4de0-b76b-e44e5dbbc0fe.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 79806,
+      "sha256": "fcf9a106d158534175b021bc637898a9f077e7cdcd6bcebd575bf05034ee49eb",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_9b30c102-2832-4eb3-a598-7ff3de5eecad",
+      "name": "新宿サザンテラス ⁄ Shinjuku Southern Terrace",
+      "path": "images/wrld_9b30c102-2832-4eb3-a598-7ff3de5eecad.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 66682,
+      "sha256": "27da4a9e6e2ffa1dff4885351f65a94c8134b3ebb642f4492041336abd5d1272",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_9bd9ca56-957d-4bd2-b9db-fb67773cd998",
+      "name": "上籾の棚田 - Exhibition of Japanese Rice Terraces［Winter］",
+      "path": "images/wrld_9bd9ca56-957d-4bd2-b9db-fb67773cd998.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 93144,
+      "sha256": "3da82fa9ecc59f92492ca53765b937ff89aeb1db93bf0177c40f7f33bc42d3a6",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_9c22a75f-727d-4a87-aa5b-a1d1bd14bfcf",
+      "name": "Soglio Village",
+      "path": "images/wrld_9c22a75f-727d-4a87-aa5b-a1d1bd14bfcf.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 91464,
+      "sha256": "69c40b86e879c23366931fb80ec56f3019f9e8036ebfc140b9c5e5a44f0dd5fe",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_9db39dcb-7f99-404a-8ef3-b3d377845680",
+      "name": "CDMX",
+      "path": "images/wrld_9db39dcb-7f99-404a-8ef3-b3d377845680.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 60659,
+      "sha256": "a5d632ce9b265febb473d3428084bc282bb44e3c940faae9f627467c99dd20e5",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_9eb853df-a052-46ee-8b11-f2b90b6fda7a",
+      "name": "アブ・シンベル神殿（Abu Simbel）",
+      "path": "images/wrld_9eb853df-a052-46ee-8b11-f2b90b6fda7a.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 96151,
+      "sha256": "a4b4c667c05c8ed3229108d8d75704cc13a1fd39fd6d4a19a24b0c8491f91e66",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_9f7013a3-4c15-4c22-aa34-9e103591bca5",
+      "name": "Marina Bay Sands - Singapore",
+      "path": "images/wrld_9f7013a3-4c15-4c22-aa34-9e103591bca5.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 88579,
+      "sha256": "32e683553865bf7864e0508aead67e2ae616e60457cb1342e193b5ededc4f651",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a0f3c442-6f74-43ff-8fca-7f010434fb91",
+      "name": "GunkanjimaVerse",
+      "path": "images/wrld_a0f3c442-6f74-43ff-8fca-7f010434fb91.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 45169,
+      "sha256": "e78810382d8571a2c461598c5c3b76ddc3b74d1bfb757275eec2fdb7843606e1",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a1cc6c52-7ca8-4500-9322-4dd029306053",
+      "name": "Cuenca Bridge",
+      "path": "images/wrld_a1cc6c52-7ca8-4500-9322-4dd029306053.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 95979,
+      "sha256": "05c8f447394af9b1e4f5c18f3616469f202d78aba91229b10ba30c55ff457070",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a26d13d0-34d4-4bff-b0ca-4f56667bb84c",
+      "name": "VirtualOkinawa_Kokusai-dori_［JP］［EN］",
+      "path": "images/wrld_a26d13d0-34d4-4bff-b0ca-4f56667bb84c.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 114199,
+      "sha256": "579ba2653666e63ae57ba6d799a9a45c87a653574d42e45bd3e825d2899732a3",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a2b20aed-7d2e-4d2e-a161-e4631a91486f",
+      "name": "Gosses Bluff‚ Impact crater‚ Australia",
+      "path": "images/wrld_a2b20aed-7d2e-4d2e-a161-e4631a91486f.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 73063,
+      "sha256": "20274633eb367dfd8e6f5d4fda5f4addb9bf988b8c3df6894d878fd8f23e277e",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a39563c5-221a-4bf7-9c16-09f0d51da854",
+      "name": "Resort in Bali",
+      "path": "images/wrld_a39563c5-221a-4bf7-9c16-09f0d51da854.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 74629,
+      "sha256": "aba01c6e0e7ecbdcea0a8c5e1ec009de32b3fa991c394bca782fcf4221bd7b71",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a6087d7d-a4ab-4f1e-8ed1-132c1579462b",
+      "name": "Hoan Kiem Lake ｜｜ HaNoi VietNam",
+      "path": "images/wrld_a6087d7d-a4ab-4f1e-8ed1-132c1579462b.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 86440,
+      "sha256": "472af9618ce0c33a4d885ae8f78a0f5cbb6249371c747875fee1838435d76f69",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a71e5baa-cc9b-41c7-9075-f9bb1f52355e",
+      "name": "Kuala Lumpur City Centre",
+      "path": "images/wrld_a71e5baa-cc9b-41c7-9075-f9bb1f52355e.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 64062,
+      "sha256": "3a4b20d64f95211e4d5429c95de40daa35517baf46bacee867c9e3e88be154a4",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a72a78c1-4515-4d10-9e4b-836be41c9779",
+      "name": "BUSAN THE BAY 101",
+      "path": "images/wrld_a72a78c1-4515-4d10-9e4b-836be41c9779.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 76940,
+      "sha256": "9c83acbaa8bb383fea4f7f7374b61ecda6d5f7ab71b338056892f7597396e3e4",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a7465dfb-d639-479e-900d-2f37370aafd1",
+      "name": "Talad Nam˸ Hemant˸ Christmas Event˸ Thailand Friend＋",
+      "path": "images/wrld_a7465dfb-d639-479e-900d-2f37370aafd1.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 109934,
+      "sha256": "c412b62e707973a040c16eadf1305fd524e0c24721694116dd9e862e0e393ff7",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a7579c81-3cd5-43d0-adee-97c14f51883b",
+      "name": "［3DGS］Batu_Caves（Malaysia） ⁄ バトゥ洞窟（マレーシア）",
+      "path": "images/wrld_a7579c81-3cd5-43d0-adee-97c14f51883b.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 126983,
+      "sha256": "c1c467b8ecb05eb0b79e6e0044ed48f8942bfa9d779b081da0b90ab57b96122f",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a7a848af-56a5-44b2-83ec-4070a6f0121a",
+      "name": "Dubrovnik‚ Main Street ＆ Old Port",
+      "path": "images/wrld_a7a848af-56a5-44b2-83ec-4070a6f0121a.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 98406,
+      "sha256": "bd5d7a267002a2860fa558edcbaab4656a4d0c29035e0fb1c1831b7936a91262",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a7d2bd36-647e-4ed1-894f-a040ea43b0fe",
+      "name": "Desa Way Mulya（Day）",
+      "path": "images/wrld_a7d2bd36-647e-4ed1-894f-a040ea43b0fe.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 104427,
+      "sha256": "d269fa68fecc68eeb729120179ca191967a2836715e87b9c22b1dc93a6aab08b",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a7d82a34-e29a-4f92-9a5e-39a103fa9381",
+      "name": "ShangHai Old Alleyway （lòngtáng）",
+      "path": "images/wrld_a7d82a34-e29a-4f92-9a5e-39a103fa9381.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 111251,
+      "sha256": "c02cc137cf0e3a43fd0ea69844ab3118381b4a85025d4e1dcda2f21d445fba5d",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a8274dad-002b-400f-a1cb-f43e64a9f8bd",
+      "name": "Boracay Island",
+      "path": "images/wrld_a8274dad-002b-400f-a1cb-f43e64a9f8bd.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 84013,
+      "sha256": "435e718cb7e6ff839b4eaa7c951126e72ca3df828abe2d4a7d5a70f684da911a",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a8f23713-56a2-4e9c-92e2-bd1611141436",
+      "name": "Kilwa Kisiwani",
+      "path": "images/wrld_a8f23713-56a2-4e9c-92e2-bd1611141436.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 115725,
+      "sha256": "694f6eeadef648e4e06db181f29b38532b321f737bde643aed90e598b85ce4e3",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_aa87e165-f1ab-43c5-8526-b2653d09a5c5",
+      "name": "Beijing Streets 西锣鼓巷",
+      "path": "images/wrld_aa87e165-f1ab-43c5-8526-b2653d09a5c5.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 92804,
+      "sha256": "dabbd5f2954fa8cb32868a88eabde5d12dd4194392368efcf467302e515c79e0",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_ac0ce2d8-92a3-4938-ab3a-eea0d3bd2e9a",
+      "name": "新潟まんがストリート フォトグラメトリ",
+      "path": "images/wrld_ac0ce2d8-92a3-4938-ab3a-eea0d3bd2e9a.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 100729,
+      "sha256": "7397ea45ee1b1329ca9e7b74c871ba6a6277dbc48ce0d3a94a558609ba8ebdb5",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_adbcb217-fee9-4bb0-b264-54aef167e9ac",
+      "name": "五十鈴神社-isuzushrine-",
+      "path": "images/wrld_adbcb217-fee9-4bb0-b264-54aef167e9ac.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 102588,
+      "sha256": "dc9122c02a2f43ac94bbdd5c0a9ac30eb9f1110cb30af0fa3dee7402da06050e",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_add88885-df23-4b41-b6e3-23c970c407d6",
+      "name": "Gabinetes de Carlos III",
+      "path": "images/wrld_add88885-df23-4b41-b6e3-23c970c407d6.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 121440,
+      "sha256": "77a169fceb8b5c831a4ed0541095c609666461bd5a5046e0ac82ee6376ca1ceb",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_b04ac9c7-4000-4b53-b24d-0408182b611d",
+      "name": "Aussie Penthouse",
+      "path": "images/wrld_b04ac9c7-4000-4b53-b24d-0408182b611d.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 91782,
+      "sha256": "288dc35dc09d92d1a1140ef2f926e9bdb82ce4dfb644fce83237bbb844b59623",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_b06214fd-b56b-484d-bde6-6e4f3d0c3fad",
+      "name": "BUSAN IGIDAE",
+      "path": "images/wrld_b06214fd-b56b-484d-bde6-6e4f3d0c3fad.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 56933,
+      "sha256": "cda0502887b6761c1343e7d7e06afcd7e18947a2c2065fa61a3276ceb85426f3",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_b155ff30-0bbf-486c-afc5-e7a05145387b",
+      "name": "VirtualFurence Furry Convention Hotel Estrel Berlin",
+      "path": "images/wrld_b155ff30-0bbf-486c-afc5-e7a05145387b.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 109085,
+      "sha256": "84d1f30dab165c8dc3fe26ffcb3fe96931b37a3e3f0568e0975ac653d6fee628",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_b18a8147-890a-4b09-b847-9ffa12fdef4c",
+      "name": "Moscow Trip 1952-River Tram （v 5․1）",
+      "path": "images/wrld_b18a8147-890a-4b09-b847-9ffa12fdef4c.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 98479,
+      "sha256": "0a58df3666a3fe983316d235c8361146801f81cce8dc500b6a175e622cf8f4e3",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_b1a59632-0d93-484a-a4e8-444586c977a5",
+      "name": "Horseshoe bend near Grand Canyon",
+      "path": "images/wrld_b1a59632-0d93-484a-a4e8-444586c977a5.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 91410,
+      "sha256": "91ed8833e462ff78966f147e4cf99ad7fb2c9eed9721946385ca4584513616b3",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_b336b0d1-9d08-459b-934e-75f712f28978",
+      "name": "Kota Tua‚ Indonesia",
+      "path": "images/wrld_b336b0d1-9d08-459b-934e-75f712f28978.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 64028,
+      "sha256": "588a4c21d370e019c6b55ed18de8858ccb9d5672b0ce33bca6e6cc039c86ce5b",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_b3679f27-77eb-462c-82be-ac841ada2ea6",
+      "name": "CRAFTER'S CAMP（クラフターズキャンプ・JAPAN CAFE＆BAR）",
+      "path": "images/wrld_b3679f27-77eb-462c-82be-ac841ada2ea6.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 120004,
+      "sha256": "e47681e819d6f243b3058055fff4e16c7ecb0c9e2c5560dbccb88ecb2cc6d4ba",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_b49c6ee2-c2e3-4dc6-bf09-3aaea66208b1",
+      "name": "ンョ゛ハー ゛（ショッパーズ長浜店）",
+      "path": "images/wrld_b49c6ee2-c2e3-4dc6-bf09-3aaea66208b1.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 92985,
+      "sha256": "107442aff8f1fe36b05b752408092b3653b87e22aa3bb762c8c61598faa79758",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_b80bb17d-ef1f-4d3a-8dcc-cf8930d6df95",
+      "name": "Paris｜Eiffel Tower",
+      "path": "images/wrld_b80bb17d-ef1f-4d3a-8dcc-cf8930d6df95.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 115651,
+      "sha256": "217aba4907375fa8b112fa9d3c9643204573481f0bda53f140d02dd80d8d01d8",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_b8a6b5b4-230d-4e92-a265-3c0482837312",
+      "name": "汕头·小公园｜Shantou Little Park＃20",
+      "path": "images/wrld_b8a6b5b4-230d-4e92-a265-3c0482837312.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 113035,
+      "sha256": "5411740db949d0413f9b76cbb6891071f094d7d04ff695d77ea5f4b480dbf7ef",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_b952847f-1a03-43af-8e4d-896c439198d2",
+      "name": "VRススキノ",
+      "path": "images/wrld_b952847f-1a03-43af-8e4d-896c439198d2.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 94726,
+      "sha256": "effcb68ec0821fcd96c9b853b56f68a141ba6a5c38d51ad0386c54a87caeb8d0",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_ba913a96-fac4-4048-a062-9aa5db092812",
+      "name": "VRChat Hub",
+      "path": "images/wrld_ba913a96-fac4-4048-a062-9aa5db092812.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 77719,
+      "sha256": "7b917fe9f8ffc5ac00e30c15d8e602f1742c634d4acaf817311324fbad8d2292",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_bc4e6382-fd69-4bb6-96db-def3ba7f9576",
+      "name": "Tiergarten‚ Berlin （2022）",
+      "path": "images/wrld_bc4e6382-fd69-4bb6-96db-def3ba7f9576.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 76947,
+      "sha256": "88953892a81ff97a01b8d2a49a71438b05ddf65e19178d1d650d53bdd530fd6d",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_bf7aa426-b156-4546-8a8e-107e23e44b5f",
+      "name": "Vuokatin Loiste",
+      "path": "images/wrld_bf7aa426-b156-4546-8a8e-107e23e44b5f.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 63668,
+      "sha256": "61f87edab9d325895f23ed21cf454f7c605e0c5908d07c1d6459e6d2bd5e3b2e",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_c037169f-ca31-4121-83a8-330bd57a12f8",
+      "name": "Tepian Sungai Segah",
+      "path": "images/wrld_c037169f-ca31-4121-83a8-330bd57a12f8.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 82335,
+      "sha256": "dcba9d4fa4b3579af8f7182bfa77ad8d288693bca091c81044f184a2a2c2215f",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_c1824301-1b7a-4a6d-ae69-de48c1bae974",
+      "name": "Kyoto Kiyomizu-dera Sando",
+      "path": "images/wrld_c1824301-1b7a-4a6d-ae69-de48c1bae974.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 104735,
+      "sha256": "60f9192a3ad8c9ddb76ad89a013cba292d6c584a8701eec1f72bdd9418e3d343",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_c6799978-839b-458c-bfa8-a307def1beb9",
+      "name": "",
+      "path": "images/wrld_c6799978-839b-458c-bfa8-a307def1beb9.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 83507,
+      "sha256": "285069bb6a7bba7990f5760f827f650af76188a524308d3a8e60b664090e1c67",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_c82a5c14-97a5-4782-a034-d897d2d943a2",
+      "name": "新宿ライブストリート ⁄ Shinjuku Live Street",
+      "path": "images/wrld_c82a5c14-97a5-4782-a034-d897d2d943a2.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 89358,
+      "sha256": "99c9dd8c12b7b68a3ca25a322943453d65271330761832debf7f39721a069de6",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_cb4c9c91-9fe2-4a71-ad08-7785e37a08d4",
+      "name": "Rishiri Island Cruise Ferry 利尻島周辺フェリー",
+      "path": "images/wrld_cb4c9c91-9fe2-4a71-ad08-7785e37a08d4.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 69361,
+      "sha256": "4f74a1a53878e7af609f429f33aeffebe50a94d328359d61fed5230684223a64",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_cb7fc2ae-2262-41ef-841a-5d2a1ffb0d87",
+      "name": "Miyakonojo Civic Center - VRAA02",
+      "path": "images/wrld_cb7fc2ae-2262-41ef-841a-5d2a1ffb0d87.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 98701,
+      "sha256": "d0739cadedff6f896cf2bff4e88bdaecfcb9d0c3faba1ded656811c03a143886",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_cba90e6b-1151-4b37-a000-dc6d8c2fb7ba",
+      "name": "Taman Cisengi Indonesia",
+      "path": "images/wrld_cba90e6b-1151-4b37-a000-dc6d8c2fb7ba.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 66728,
+      "sha256": "2d414d99d3eda60792a91dfd6da4626796ff5b2beb24085a344ba04d8bba2d31",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_cc905a73-a346-4575-82c0-83affcbd9304",
+      "name": "Natural History Museum - Hintze Hall",
+      "path": "images/wrld_cc905a73-a346-4575-82c0-83affcbd9304.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 114045,
+      "sha256": "9a045489da2021fe48cd4847210f25f5bc6e24f9a33d356de9a43945a76e139f",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_cf064f3b-9c88-40cb-a4e6-59652d5f9d4e",
+      "name": "鹿沼公園 D52 235 -JNR Class D52-",
+      "path": "images/wrld_cf064f3b-9c88-40cb-a4e6-59652d5f9d4e.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 114631,
+      "sha256": "3f1166408cc70d2acdedb6a6ee82c66068b097c25dc1eb5bce170ec04bdd59b7",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_d048292b-42ad-4204-9372-0103d9a46f71",
+      "name": "Gion Street - 祇園通り日本",
+      "path": "images/wrld_d048292b-42ad-4204-9372-0103d9a46f71.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 105673,
+      "sha256": "9b5eac319313404e45fb9a8cf6cdc2e5cd717ac54d8640795c50172d700eeea8",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_d0bc473d-ffbb-4b16-b2d0-019e6e99dfbe",
+      "name": "東京～お台場 ドライブ Tokyo Diba Drive",
+      "path": "images/wrld_d0bc473d-ffbb-4b16-b2d0-019e6e99dfbe.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 65400,
+      "sha256": "388540f362ef416825734de405c315b31ae222ef3436e1e919dad44972aaf010",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_d1304796-d708-4af9-839b-f1e0e69e84ac",
+      "name": "御手洗町並み保存地区 - The Historic Island Town of Mitarai",
+      "path": "images/wrld_d1304796-d708-4af9-839b-f1e0e69e84ac.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 87632,
+      "sha256": "f7abfbd785b1c88c8df1904a907db628ad0400e7aec4bfc646ffd8d136c5b308",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_d132397f-d86e-4730-8ae7-36b78b39eb3e",
+      "name": "Mount Kilimanjaro‚ Tanzania",
+      "path": "images/wrld_d132397f-d86e-4730-8ae7-36b78b39eb3e.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 89293,
+      "sha256": "a39357e3fce430e6721a32a669cb9aa89089d72e674377620ddf334246c9d7a4",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_d440db43-6dcc-424a-b30f-ac34c6833d83",
+      "name": "Pyramids of Giza",
+      "path": "images/wrld_d440db43-6dcc-424a-b30f-ac34c6833d83.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 85043,
+      "sha256": "cbc3a35265dd431f97afb4112ebccaadaf0f57d0deea7bf663858eb1930adb3d",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_d4bb7b93-87f6-43eb-b40a-881cedca4e6f",
+      "name": "Brasil - Copacabana",
+      "path": "images/wrld_d4bb7b93-87f6-43eb-b40a-881cedca4e6f.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 91305,
+      "sha256": "86d8e5421c8ff30d51e4e236d415d4bbe9b97910315464182d3b5a2372432545",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_d70e60e1-e357-4b5e-b299-496b743ef216",
+      "name": "Sol Cercanías",
+      "path": "images/wrld_d70e60e1-e357-4b5e-b299-496b743ef216.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 73700,
+      "sha256": "fcc13f21249803d7b10674c3c83d0045cfce3bae6efc5620ddde995f69a46eb5",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_d78c50e1-716e-4215-bbed-dd373a4b624b",
+      "name": "首都高の廃景 八重洲乗客降り口 ⁄ Lost Expressway˸ Yaesu Exit",
+      "path": "images/wrld_d78c50e1-716e-4215-bbed-dd373a4b624b.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 74167,
+      "sha256": "320dd5e98d56408e69273d258eb91ddbe3b584edb59f9c2a68c21605d6634c9b",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_d858ae6d-441c-4789-aec0-a3d646ed6025",
+      "name": "Palawan Resort",
+      "path": "images/wrld_d858ae6d-441c-4789-aec0-a3d646ed6025.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 88786,
+      "sha256": "044ca3a2dca7c7296e9471b12f9896a6f398833b221abab02bc2ba63c4386a03",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_dc545adb-be81-43ee-ae5c-ba2ac46c97ca",
+      "name": "Rumkale Fortress - Aintab‚ Turkey",
+      "path": "images/wrld_dc545adb-be81-43ee-ae5c-ba2ac46c97ca.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 91587,
+      "sha256": "b02fd6458451893366b7583e069528866884d579ce09dfa22c2680e78eb0a80b",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_dcc4a686-b7bf-437d-90a0-bb69bec0b405",
+      "name": "The Tokyo Skytree",
+      "path": "images/wrld_dcc4a686-b7bf-437d-90a0-bb69bec0b405.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 86522,
+      "sha256": "0218c0d6496e78a5c3482a865b697315057e292ba835e680b2ab50be27cd40cb",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_dd9ecfdb-38df-4a8b-8eaf-09a4224517d7",
+      "name": "Somerset Belt",
+      "path": "images/wrld_dd9ecfdb-38df-4a8b-8eaf-09a4224517d7.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 35627,
+      "sha256": "22fec4337fcbd221a07b689c26d82b2727586eabd85e77ed80bdb7d403943313",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_e0a31866-1464-4c25-9631-20ecd6272ccf",
+      "name": "Wertheim Castle",
+      "path": "images/wrld_e0a31866-1464-4c25-9631-20ecd6272ccf.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 94792,
+      "sha256": "5f295f4fabed2824fc592525e16c8fb58addd718189aebf0eb6b07265636c5b6",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_e0eed023-c426-4674-afdc-4818c0dd6011",
+      "name": "Singapore Marina Bay ［Night］",
+      "path": "images/wrld_e0eed023-c426-4674-afdc-4818c0dd6011.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 68097,
+      "sha256": "7de75483cf4d3ed4b5f1f3770785967c2e2a812f8e8c8db80eff8dfdf1d455a7",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_e16c5a30-5435-47f8-bf38-44385f6ac3a5",
+      "name": "VR Narita Airport《NRT⁄RJAA》",
+      "path": "images/wrld_e16c5a30-5435-47f8-bf38-44385f6ac3a5.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 80781,
+      "sha256": "49432e6d3a4f3f2ca19a82942fb44369d161a870ffb13464e470a09e645291ce",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_e1bc2593-ff14-42be-ba20-5848bfe47abd",
+      "name": "Svalbard",
+      "path": "images/wrld_e1bc2593-ff14-42be-ba20-5848bfe47abd.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 86102,
+      "sha256": "e717c73aca49deeb55b2db73a6ca2d9621cdec8ea8b1f63cf7920c0ac4643507",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_e21bc920-98d1-42af-b6fb-830e542f45cd",
+      "name": "Wat Phra Si Sanphet -วัดพระศรีสรรเพชญ์-",
+      "path": "images/wrld_e21bc920-98d1-42af-b6fb-830e542f45cd.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 90386,
+      "sha256": "a9cf476c18552a233f43c640b4c68559a413ec1829b6ead60f225b4eced06312",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_e241d884-89b9-4efa-bdd9-02be4523c29d",
+      "name": "友ヶ島旧海軍聴音所跡地",
+      "path": "images/wrld_e241d884-89b9-4efa-bdd9-02be4523c29d.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 113659,
+      "sha256": "24e3a362704ff644ab374983a1c5fb7144f5fa02f81c29477120c4bfee51750b",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_e4921fb9-c607-4274-8dd1-6348537d77e6",
+      "name": "VR 360° Travel to Wien‚ Austria",
+      "path": "images/wrld_e4921fb9-c607-4274-8dd1-6348537d77e6.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 88889,
+      "sha256": "00b8259b137d0e0892c6beec22bdb87a2ad0cff029f0d9e70e0cd21876029c02",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_e582111f-c405-452f-a758-e2f1b7f0610c",
+      "name": "Anphitheatre Pula ｜ Pula Arena ｜ CROATIA",
+      "path": "images/wrld_e582111f-c405-452f-a758-e2f1b7f0610c.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 95873,
+      "sha256": "654ac0e3699359561b621786aca10bca4e843b509011f9cc1a163c572fd22a22",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_e7b7d3e9-8f8c-4204-a785-47c7ccce0a2a",
+      "name": "Upnor Castle （3D Scan）",
+      "path": "images/wrld_e7b7d3e9-8f8c-4204-a785-47c7ccce0a2a.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 94652,
+      "sha256": "bae3f12e2119ab9721dbc9bc08ce5501c360306d8be7e0ae0fb0e9ce8b0ac06d",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_e82744e0-9b56-451d-9708-6cba87e960ca",
+      "name": "CDMX Zocalo",
+      "path": "images/wrld_e82744e0-9b56-451d-9708-6cba87e960ca.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 76472,
+      "sha256": "e2f98407b4cf6a05d201aa1809f510efd72278c6216fd91d36e465f03e1d673a",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_e8885b07-44ec-4acc-b096-a17e5c7cd0e6",
+      "name": "Venice Canal Widmann",
+      "path": "images/wrld_e8885b07-44ec-4acc-b096-a17e5c7cd0e6.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 109875,
+      "sha256": "16595a90c600268ddbe4489c2b9f894e316fd339dae03b07a40d7e9bcf68ebff",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_ed008f06-3a75-4e8d-9156-ab0e23edb746",
+      "name": "3D Scan 厦门·中华步行街＼Xiamen · Xiamen Zhonghua Pedestrian Street（CN、Fujian、Xiamen）＃4",
+      "path": "images/wrld_ed008f06-3a75-4e8d-9156-ab0e23edb746.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 85903,
+      "sha256": "f393933db4b999e4e0498020c5d1d310b74fddeff1546d9403ca2010f76fbadc",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_ef280de9-4953-4068-8bbf-83a72c4e6f63",
+      "name": "DOBUITA ＆ MIKASA WORLD（メタバースヨコスカ）",
+      "path": "images/wrld_ef280de9-4953-4068-8bbf-83a72c4e6f63.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 100807,
+      "sha256": "3a98fbebba72c6870446b21709abac983570fc957e93146e391d1af4bed26953",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_ef6cb0de-1cfb-4458-a1e0-32f518e0cc13",
+      "name": "Venice Immersive 2025",
+      "path": "images/wrld_ef6cb0de-1cfb-4458-a1e0-32f518e0cc13.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 81916,
+      "sha256": "21cf4d9a104ec923ecd824c232f9f64d6607bc8d58063ba11f08ae8d9aa67579",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_effbc034-513c-43e5-a2f3-aadf9d4f8b22",
+      "name": "Somewhere in Turkey",
+      "path": "images/wrld_effbc034-513c-43e5-a2f3-aadf9d4f8b22.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 72695,
+      "sha256": "037b58feefd8b52915c309394a8cf73ab6742372991e526ba911a66985050fb7",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_f1b06592-6d63-499e-b386-72fffaeeed70",
+      "name": "Cappadocia Dreams（Night）",
+      "path": "images/wrld_f1b06592-6d63-499e-b386-72fffaeeed70.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 101422,
+      "sha256": "ab285a8d618fb80956e92879ad700853f5bec340767f07e7e386a21b59f7da8a",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_f3dab06a-d09e-4b37-9c73-898fdc6ed52d",
+      "name": "Zocalo Spanish",
+      "path": "images/wrld_f3dab06a-d09e-4b37-9c73-898fdc6ed52d.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 36490,
+      "sha256": "3c3bc81bbd9132184ce83d0d0339cf19d41c1c2917a550ea6a23f46fa18effde",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_f4e4badc-e1aa-4651-bb31-845e0b336369",
+      "name": "El Valle de la Cruz",
+      "path": "images/wrld_f4e4badc-e1aa-4651-bb31-845e0b336369.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 94704,
+      "sha256": "d2d04dbc039f60250215c6fc73cccf65189b80c4760c4276d669e44863aff183",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_f5ac7b56-9df3-4a7e-a8f8-3c064d5c6318",
+      "name": "Rainbow Mountain‚ Peru",
+      "path": "images/wrld_f5ac7b56-9df3-4a7e-a8f8-3c064d5c6318.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 88052,
+      "sha256": "026d1a6c8edf1367c0d5473a46d5c08d5d3f3d9221f9171f203246d843ef6b31",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_f5dc28b5-6e0b-4276-a532-e0556f121dcf",
+      "name": "Roman Empire Colosseum",
+      "path": "images/wrld_f5dc28b5-6e0b-4276-a532-e0556f121dcf.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 92494,
+      "sha256": "8046dcd126d451c7a8605f9cc338ac91a6e2edacf8a1c4b3914f285c082a64f0",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_f9fd1ae3-a994-4835-b2db-e8907bcc5988",
+      "name": "New York Subway ⁄ ニューヨーク地下鉄",
+      "path": "images/wrld_f9fd1ae3-a994-4835-b2db-e8907bcc5988.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 97436,
+      "sha256": "1b4b0af376b38de644f9069b22b5dc02ee763430766631d8923b42e917e43a32",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_fb594862-5944-4895-8ab7-7af4d15a98ac",
+      "name": "Circular Quay",
+      "path": "images/wrld_fb594862-5944-4895-8ab7-7af4d15a98ac.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 83069,
+      "sha256": "46a820a4a127a5e3a6f72e386c88ca6b4dbadace32fa55423b200cf1adb92dd8",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_fb802c75-d0fc-4d40-81f5-a3009571433d",
+      "name": "風のテラス・ブルー",
+      "path": "images/wrld_fb802c75-d0fc-4d40-81f5-a3009571433d.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 81136,
+      "sha256": "25c6df968fc2e9e19bca05da6fddb80141fb31d5d03530c98aee510ef8d1664a",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_fc80a8fe-3785-4a16-97e9-a145dacc874b",
+      "name": "SPAIN",
+      "path": "images/wrld_fc80a8fe-3785-4a16-97e9-a145dacc874b.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 57975,
+      "sha256": "bb1099d88a2dba431f640549f4ab21d7471967e15c403c728c7d184f0e2b1ec6",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_ff5ff0ff-2287-4414-b2bb-64040a05e879",
+      "name": "Saint-Michel",
+      "path": "images/wrld_ff5ff0ff-2287-4414-b2bb-64040a05e879.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 75409,
+      "sha256": "2a5fcf5d39681beb5d146e8ebc62ed017246344254c03350c41290805c68b48e",
+      "status": "ok"
+    }
+  ]
+}
