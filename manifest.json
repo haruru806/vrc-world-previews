@@ -5840,6 +5840,46 @@
       "bytes": 79517,
       "sha256": "645e576b6725717f0fb13da6d8976dd403151862165922bbc526baf1f92a9ab9",
       "status": "ok"
+    },
+    {
+      "worldId": "wrld_9f35b875-97a9-452c-ba1d-8f98f210b376",
+      "name": "Roman Pool",
+      "path": "images/wrld_9f35b875-97a9-452c-ba1d-8f98f210b376.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 87247,
+      "sha256": "b7a1364d3667ef30052ccb9ba15e372a753be107346b50fd232bf2807139f215",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a6f366d8-654f-4dfe-88f7-2bb6f54fea2e",
+      "name": "Cine Avenida",
+      "path": "images/wrld_a6f366d8-654f-4dfe-88f7-2bb6f54fea2e.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 93626,
+      "sha256": "fd696d94f411f5dc430d52bc196d4b1e385489a787292c8a4e94aeea8c9cb7c6",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_ef452800-c30c-42a9-a59a-a68f680d4101",
+      "name": "Nudo Puerta de Hierro 1964",
+      "path": "images/wrld_ef452800-c30c-42a9-a59a-a68f680d4101.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 70460,
+      "sha256": "5b3e0031a3e511a0b430a3e8a8000fe25f96f6ab64998b1363559fa8f8d4d2d4",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_d512b637-ad05-4734-93bf-a7ed093aef8d",
+      "name": "2000s Ontario Country Home",
+      "path": "images/wrld_d512b637-ad05-4734-93bf-a7ed093aef8d.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 64275,
+      "sha256": "7bb7fc1db3c7dfa087c8d3c9623db56b9a89d71a7245481851ff61a624bd5daa",
+      "status": "ok"
     }
   ]
 }
