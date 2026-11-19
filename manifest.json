@@ -5970,6 +5970,36 @@
       "bytes": 105237,
       "sha256": "3ea254913a067862600b8956cbdab68cdb398547a73d7b1eea1e361963701afa",
       "status": "ok"
+    },
+    {
+      "worldId": "wrld_540a9115-f704-4b88-a00c-95a35f8d98dd",
+      "name": "バーチャル日出町（β版）",
+      "path": "images/wrld_540a9115-f704-4b88-a00c-95a35f8d98dd.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 73300,
+      "sha256": "af706eb356c9d6a742312eac9e7fc31b36545406a8614a17e33aac529291ac4f",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_aa5ba2f7-0e09-407a-a143-8f921c871771",
+      "name": "Ikejima Ruins -池島廃墟-",
+      "path": "images/wrld_aa5ba2f7-0e09-407a-a143-8f921c871771.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 110582,
+      "sha256": "a33838d45dc6a308e3d7df9b7cd1c051e05e3ce49967afe6e35861a1abff77c0",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_f3bf6f63-5eff-4290-b73c-fe14447539dd",
+      "name": "Yonago Castle",
+      "path": "images/wrld_f3bf6f63-5eff-4290-b73c-fe14447539dd.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 105633,
+      "sha256": "c4ced2469c58581c9b53cfa859c4ed4e7d0a0879a512708388798d1ddf3b0673",
+      "status": "ok"
     }
   ]
 }
