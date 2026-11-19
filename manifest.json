@@ -5880,6 +5880,96 @@
       "bytes": 64275,
       "sha256": "7bb7fc1db3c7dfa087c8d3c9623db56b9a89d71a7245481851ff61a624bd5daa",
       "status": "ok"
+    },
+    {
+      "worldId": "wrld_cf8cde03-1aec-4e1b-af6f-a8c372cd3056",
+      "name": "Wajima Juzo Shrine - 輪島 重蔵神社 -",
+      "path": "images/wrld_cf8cde03-1aec-4e1b-af6f-a8c372cd3056.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 79698,
+      "sha256": "12b17643ceceb8a0e90e55a9e4bee34ba58de88d3b85fd4cc61a4d3305cefb17",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_18820e1e-2f7c-4dde-b4bd-0c6038e26cd5",
+      "name": "MarinWorldWorld",
+      "path": "images/wrld_18820e1e-2f7c-4dde-b4bd-0c6038e26cd5.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 82284,
+      "sha256": "76b64b335a7773a314b988abd7392465d53d185c0139705f05b413008fc72a6a",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_d25e0d03-9391-4cb3-a397-d0da5a0fa5a3",
+      "name": "CASTRUM LIBURNI",
+      "path": "images/wrld_d25e0d03-9391-4cb3-a397-d0da5a0fa5a3.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 67334,
+      "sha256": "3653d362b8470375b69af5f9e154eac13cbdb28870053d6a38a947df06d8f72d",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_d22e41c3-6f81-4839-9d54-f07f7d2fb4b5",
+      "name": "Times Square‚ NY",
+      "path": "images/wrld_d22e41c3-6f81-4839-9d54-f07f7d2fb4b5.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 123661,
+      "sha256": "d5bcc1649ff188f3bc3aa3ff7c41b7c29bcd01620317c8cec1fb496a19f10ba0",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_2a9f5dbb-1709-4376-a0bb-c6ef72113df0",
+      "name": "大汝牟遅神社：ネオ日置",
+      "path": "images/wrld_2a9f5dbb-1709-4376-a0bb-c6ef72113df0.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 99719,
+      "sha256": "b1bd17f34053670dde1c7b371e2064534b9368bd8624368e082e58bd3d69f4dc",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_1c4f6409-b92f-4997-a419-f6ea298ab23d",
+      "name": "バーチャル尾呂志 ［Rice World］",
+      "path": "images/wrld_1c4f6409-b92f-4997-a419-f6ea298ab23d.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 63141,
+      "sha256": "ca1848d8b729d987f2df50da964003232d9c4d1037ec63dec54346dcebdf956d",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_43b2f815-4644-4a80-b5b5-921bf16be59a",
+      "name": "Eirakukan",
+      "path": "images/wrld_43b2f815-4644-4a80-b5b5-921bf16be59a.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 95060,
+      "sha256": "423fd1d7443689d9199e8c0f93434aa3eb09f00a43c1060c655763f906ebe38a",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_7c322728-b480-4f5f-b9ba-8dfa8ca5675a",
+      "name": "新潟市 ぷらっと本町＆人情横丁 商店街フォトグラメトリ",
+      "path": "images/wrld_7c322728-b480-4f5f-b9ba-8dfa8ca5675a.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 109741,
+      "sha256": "9402a2848a4bba388969ebc3116687c5e4e2e0fa669dc227de4dd0c91fd83959",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a1c19f6e-e4f9-4157-86b3-8633360e2159",
+      "name": "Shinkansen Park VR",
+      "path": "images/wrld_a1c19f6e-e4f9-4157-86b3-8633360e2159.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 105237,
+      "sha256": "3ea254913a067862600b8956cbdab68cdb398547a73d7b1eea1e361963701afa",
+      "status": "ok"
     }
   ]
 }
