@@ -6230,6 +6230,176 @@
       "bytes": 56383,
       "sha256": "c0c2ab9e31b81aff2dc090e050261da7578369be55739cd0226e98c0d556b0ff",
       "status": "ok"
+    },
+    {
+      "worldId": "wrld_207509e0-dea0-4334-bbb7-81190d843a2b",
+      "name": "空港ラウンジ型交流ワールド「Odyssey Lounge」",
+      "path": "images/wrld_207509e0-dea0-4334-bbb7-81190d843a2b.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 47231,
+      "sha256": "5e7e5562c430b4fb320f48bc76818a158e1e2054108b922fcf8a4a419462862e",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_7345f139-e021-45cb-986e-b8b0f43994fa",
+      "name": "JP 初心者プラザ",
+      "path": "images/wrld_7345f139-e021-45cb-986e-b8b0f43994fa.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 61624,
+      "sha256": "f070c01e043f0ff8c5ad73406e025ebf8cef47d60b756f5304fab56761062751",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_bf51e60f-f372-48b1-a757-88ba8331d926",
+      "name": "［JP］Tutorial world",
+      "path": "images/wrld_bf51e60f-f372-48b1-a757-88ba8331d926.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 17068,
+      "sha256": "fb0d44effab8f4ce33a22221700b3788875bdba7d7b9524653e095ee9a664036",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_f5f8b3dc-6f33-4b34-97f3-83add2fb224d",
+      "name": "日本語話者向け集会場「FUJIYAMA」JP",
+      "path": "images/wrld_f5f8b3dc-6f33-4b34-97f3-83add2fb224d.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 10312,
+      "sha256": "47b05499abef167a8447777f48d05654dc5e76663afaaafff309559a143228b3",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_30716c54-3565-42f7-b7c5-d398ef4faac5",
+      "name": "ポピー横丁-Poppy Street-",
+      "path": "images/wrld_30716c54-3565-42f7-b7c5-d398ef4faac5.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 37352,
+      "sha256": "f5d2518b8df6bb80351d66ee755f9b6f11a099d62b14d17b1d993c0e1b3d34a6",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_1b94e327-036b-4d09-81be-e898d71f02cb",
+      "name": "日本人向け 1対1お話しワールド NAGiSA ［JP］",
+      "path": "images/wrld_1b94e327-036b-4d09-81be-e898d71f02cb.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 63455,
+      "sha256": "1c74f3b4bb6a4ede88f03ba0c139b06242b8bb7d355f95370afbb0461c4d55a0",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_d619675d-139d-4e58-bcda-da26a3c75c0e",
+      "name": "ヘヤタテ型交流ワールド「ひまり旅館」-Himari Ryokan- ［JP］",
+      "path": "images/wrld_d619675d-139d-4e58-bcda-da26a3c75c0e.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 70252,
+      "sha256": "65a64b415423a48020d81596ba8ceb6a74cc76ce8e5dcac5e3998c8b135cf8c3",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_02cb84c8-446a-484b-b52b-2c1777e55f8d",
+      "name": "Japan Street 0․459",
+      "path": "images/wrld_02cb84c8-446a-484b-b52b-2c1777e55f8d.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 76575,
+      "sha256": "980fdcc2d06933074324a99b11b140ce31226c7d784f4ffa679d2b934879c475",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_175f8d7d-fd44-476a-8242-8aaef5ba5b33",
+      "name": "Japan Talk Room 日本人向け談話室 ［ JTR JP ］",
+      "path": "images/wrld_175f8d7d-fd44-476a-8242-8aaef5ba5b33.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 29674,
+      "sha256": "060b4c0976cf33c7c012ecb4d1ec5e84940fd81c90366a23f033463fc9d2a110",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_4cdf3215-e7e6-475d-aebe-ef605d320119",
+      "name": "【JP】Qじゃぱん横丁 -Q Japan Street-",
+      "path": "images/wrld_4cdf3215-e7e6-475d-aebe-ef605d320119.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 79428,
+      "sha256": "fc726014594b3bbcf662fee23aba21011af6e77e29d42e85b035f16aea466390",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_986702ed-7c6a-4349-bc80-da505a549645",
+      "name": "日本語話者向け集会所「INC」",
+      "path": "images/wrld_986702ed-7c6a-4349-bc80-da505a549645.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 77459,
+      "sha256": "6c679f52f229f60a6034b081c0c0dd6c4615858c12a5f34789538d727836d944",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_2eadff86-8d29-4697-a427-07010b491e0d",
+      "name": "Quest日本集会場 ⁄ クエ集 ［JP］",
+      "path": "images/wrld_2eadff86-8d29-4697-a427-07010b491e0d.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 77413,
+      "sha256": "e073f7792974e1e3b81768f924d9ee0236657d4724b9c41a74011eb9e9886c30",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a3721aaa-3c06-4ce2-9b70-390add2a85b1",
+      "name": "VRC歴史博物館『VRChatここから始めました』",
+      "path": "images/wrld_a3721aaa-3c06-4ce2-9b70-390add2a85b1.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 60084,
+      "sha256": "bf565af541a20c55b3aa425f3144405a6e9a6b30746d210f98dbc6d3cdacad9b",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_6b59f1f4-1039-4ef1-951e-c135c6bf8d19",
+      "name": "ホラワマッチング ～ホラワに一緒に行こう",
+      "path": "images/wrld_6b59f1f4-1039-4ef1-951e-c135c6bf8d19.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 71974,
+      "sha256": "23d700815cdecb439c4687f49bda45301ebe411672a11861f2a5ada5d71d5952",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_dd48dfb4-304e-4b2f-a470-2d7fb79be98f",
+      "name": "【JP】 Qじゃぱんひろば（UDON）",
+      "path": "images/wrld_dd48dfb4-304e-4b2f-a470-2d7fb79be98f.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 71382,
+      "sha256": "2a1ba100e2bf2464900f0a8d7ff412b919bd5422bd820e2640457d57e2156fe8",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_f22fb1ad-5127-4ca4-9737-57f2a1b92e5f",
+      "name": "初心者案内ワールド『こもれび』~With Rinasciita~",
+      "path": "images/wrld_f22fb1ad-5127-4ca4-9737-57f2a1b92e5f.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 85176,
+      "sha256": "3b8cab04b28e0e6ca490fc5886c2109e687c5c5bb00dd2dd1bdb96d60e892557",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_cb0896ea-4840-4559-9ed2-ef2923eb5151",
+      "name": "HK Town",
+      "path": "images/wrld_cb0896ea-4840-4559-9ed2-ef2923eb5151.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 96562,
+      "sha256": "7ca174c9575e93140c2812922ad3dd22aabc7da65c7a642bd0e4d0af28969b03",
+      "status": "ok"
     }
   ]
 }
