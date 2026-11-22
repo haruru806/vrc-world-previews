@@ -6000,6 +6000,236 @@
       "bytes": 105633,
       "sha256": "c4ced2469c58581c9b53cfa859c4ed4e7d0a0879a512708388798d1ddf3b0673",
       "status": "ok"
+    },
+    {
+      "worldId": "wrld_153be667-a86e-4aaf-9eed-921bd568ee9b",
+      "name": "EN-JP Language Exchange",
+      "path": "images/wrld_153be667-a86e-4aaf-9eed-921bd568ee9b.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 108296,
+      "sha256": "456b7d320f8de550d941fbec1d735ff42bcd8cf85279a218445377411c973473",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_222f501a-5740-4cf2-a6fc-1b76bc2070e1",
+      "name": "日语学习［CN⁄JP］日本語能力試験",
+      "path": "images/wrld_222f501a-5740-4cf2-a6fc-1b76bc2070e1.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 100027,
+      "sha256": "f7172e10a0f16f120f6575cdc84d4bb99cf3740449f7dd151e60e6f39ae8e6fb",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_57437f71-f642-4d8a-9b62-7ac200d16e71",
+      "name": "KR-JP 日本語話者のための韓国語勉強｜Korean Study for Japanese",
+      "path": "images/wrld_57437f71-f642-4d8a-9b62-7ac200d16e71.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 64353,
+      "sha256": "96a14760575a63b73385348dc8f374fd8f22884a2f1231f299a1061b9e785d12",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_af75636b-ba33-43b4-b217-e1d909bedad1",
+      "name": "KR＆JP Exchange",
+      "path": "images/wrld_af75636b-ba33-43b4-b217-e1d909bedad1.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 39769,
+      "sha256": "f9608531b424d4ed9102c334553175fa826212c4a83c8b61ef1ff81b848f3870",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_fb4ee386-924e-46cc-945a-4c5411cfa4d2",
+      "name": "SOTSUU・EN-JP Language Learning ［V1․3］",
+      "path": "images/wrld_fb4ee386-924e-46cc-945a-4c5411cfa4d2.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 49861,
+      "sha256": "b5400bbba6877f298e012672fe02d9b1e14d31f2a5b72cee6d7c51ae4a57eadd",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_68bb31aa-f123-4bc1-961d-d35c6304c81c",
+      "name": "World Repository",
+      "path": "images/wrld_68bb31aa-f123-4bc1-961d-d35c6304c81c.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 59063,
+      "sha256": "5bd68ce80bc5c5724c818badba3e98624f38a0bb9751afcdb2ad47abf7443136",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_3d12fbc0-c470-4e97-9191-3cf3aeba8832",
+      "name": "［JP］ USiOPORT ウシヲポート",
+      "path": "images/wrld_3d12fbc0-c470-4e97-9191-3cf3aeba8832.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 30453,
+      "sha256": "f38b79e772e1c02d2d004191f522ab5623b198d6f4fa3bcf7ed3b8649ca6a816",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_01e19bb8-dce9-4416-8d0d-dbcaa9324fb2",
+      "name": "［JP］クエストトビラ QUEST TOBIRA",
+      "path": "images/wrld_01e19bb8-dce9-4416-8d0d-dbcaa9324fb2.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 22124,
+      "sha256": "6eafa8bbfd31e116b2356ffcca6e995051ad501d7a3c9256352f779dafbe7e3d",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_7aba5579-abf3-4812-9c0d-874081f53fbe",
+      "name": "iOS World Collection",
+      "path": "images/wrld_7aba5579-abf3-4812-9c0d-874081f53fbe.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 59149,
+      "sha256": "8f50cad8d15be3c6c22329995c62128a2ddeaf278b69629eef83357b77a22764",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_ca7e5108-f81e-4cd0-bf8a-3b001fa860a9",
+      "name": "Quest Portal Station",
+      "path": "images/wrld_ca7e5108-f81e-4cd0-bf8a-3b001fa860a9.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 22686,
+      "sha256": "c0967b2eeb5f1c70963931a7045d9ba043a2ab382d5a1cfebe3c8530fe85d388",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_5b335e5c-ff21-4b58-ba8c-73991457b3a8",
+      "name": "［latest］バーチャルFOXヤタノ 探訪ワールドポータル集ロビー",
+      "path": "images/wrld_5b335e5c-ff21-4b58-ba8c-73991457b3a8.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 94122,
+      "sha256": "de3535e476c40a94a539b0353a49ffa6b3e7fde57900f5d538b9c95ba1e156c0",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_e93bf929-a9de-461c-8a7d-f0ebda909352",
+      "name": "ゲームワールド紹介ワールド≺クレイドル≻",
+      "path": "images/wrld_e93bf929-a9de-461c-8a7d-f0ebda909352.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 50421,
+      "sha256": "67ef3f1b978ea72330d44d49a508e166cdad6bddff57f7c93e36e60dbb0b3b55",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_ceaac3f1-8afb-4b4d-8775-3a74160c3d17",
+      "name": "Game World Hub",
+      "path": "images/wrld_ceaac3f1-8afb-4b4d-8775-3a74160c3d17.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 29175,
+      "sha256": "247ac99f0bfafabefc78cd726bc5b5d1488db39e806ed9baf9bd626706cd17c9",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_0218a13c-e65f-4cf4-8cf7-0598c9f4e81d",
+      "name": "ボドゲポータル",
+      "path": "images/wrld_0218a13c-e65f-4cf4-8cf7-0598c9f4e81d.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 58002,
+      "sha256": "b22ae5a0f6fe68f3f93926d89ac8207cd33dd1dd37835ef2dc289c88d0e4ed50",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_3b6983c6-814a-4e43-804a-a78845e231cf",
+      "name": "謎解きパズル系ポータルワールド",
+      "path": "images/wrld_3b6983c6-814a-4e43-804a-a78845e231cf.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 17595,
+      "sha256": "75a0af01024f9515194df66f48a1b595bc31a16ecb418bbd62666faa97b1bc56",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_16e82c05-030b-4851-b6ff-098f9e6ee175",
+      "name": "YUARIKA PORTAL WORLD〖謎解き・パズル〗",
+      "path": "images/wrld_16e82c05-030b-4851-b6ff-098f9e6ee175.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 79838,
+      "sha256": "e69dc675a0001999fabeec405e66d909ec3896364ba7fac63deddc22895ec0aa",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_fa12f381-6196-4ba5-9f9f-d443d6ebdd6b",
+      "name": "Horror Portal JP-ホラーポータルJP-",
+      "path": "images/wrld_fa12f381-6196-4ba5-9f9f-d443d6ebdd6b.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 97216,
+      "sha256": "cb8b46f981171e22efd79f1eed354d234de82f01a8a87bbe7afef966106c99e0",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_ba4b056b-b41f-4ecf-a26d-154d9513ae8a",
+      "name": "えっぐぷらんとのポータルワールド［JP⁄EN］",
+      "path": "images/wrld_ba4b056b-b41f-4ecf-a26d-154d9513ae8a.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 105733,
+      "sha256": "045a47a6fe9b13f0e08961b8a080b416e6806b1ec84025350ef159522258c48e",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_57d3fc13-46ed-4363-9191-19539d744d75",
+      "name": "World Museum Portal",
+      "path": "images/wrld_57d3fc13-46ed-4363-9191-19539d744d75.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 106950,
+      "sha256": "9cb3ae796cb8a36e6c7a16962d5ec0728c2d702daf6039f0ef568b170c937d11",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_1376adf1-8209-4a7f-9ff2-bdff33412496",
+      "name": "青空文庫ポータル",
+      "path": "images/wrld_1376adf1-8209-4a7f-9ff2-bdff33412496.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 73217,
+      "sha256": "d665fda0534e54cd0f26299aae6081b3433d8294a2c013a7d50d82d9f2ff727f",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_de9ce32c-26a9-42ad-b66f-f2eee24887fe",
+      "name": "パーティクルライブ全部見るPort",
+      "path": "images/wrld_de9ce32c-26a9-42ad-b66f-f2eee24887fe.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 69186,
+      "sha256": "f8df6c6ec1fd5dfa9ba16daf837ded161ab1cf9f46810b4def5552386f23c1c6",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_3229ce5d-c0da-46fd-8f0a-f025e71e51b3",
+      "name": "中日原点交流世界2․0［CN＼JP］",
+      "path": "images/wrld_3229ce5d-c0da-46fd-8f0a-f025e71e51b3.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 103874,
+      "sha256": "1d1f06159943aa9a8f4418f0d72612c54c9566c48cf0f3f3930c5271dc5d8281",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_98cc32f3-0ddc-4381-9bf2-ebb76a91e61a",
+      "name": "謎解きポータルハブ「なぞいろは」",
+      "path": "images/wrld_98cc32f3-0ddc-4381-9bf2-ebb76a91e61a.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 56383,
+      "sha256": "c0c2ab9e31b81aff2dc090e050261da7578369be55739cd0226e98c0d556b0ff",
+      "status": "ok"
     }
   ]
 }
