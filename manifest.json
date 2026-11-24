@@ -6230,7 +6230,7 @@
       "bytes": 56383,
       "sha256": "c0c2ab9e31b81aff2dc090e050261da7578369be55739cd0226e98c0d556b0ff",
       "status": "ok"
-    },
+    },
     {
       "worldId": "wrld_207509e0-dea0-4334-bbb7-81190d843a2b",
       "name": "空港ラウンジ型交流ワールド「Odyssey Lounge」",
@@ -6399,6 +6399,266 @@
       "height": 192,
       "bytes": 96562,
       "sha256": "7ca174c9575e93140c2812922ad3dd22aabc7da65c7a642bd0e4d0af28969b03",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_25d57b24-d6cb-440c-8233-c94138db7db9",
+      "name": "上海城隍庙商业街｜Shanghai City God Temple",
+      "path": "images/wrld_25d57b24-d6cb-440c-8233-c94138db7db9.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 105447,
+      "sha256": "d179b5db7f5a754af5a3c6c839154d60d9cb6de3e3a49c308f9fc316999e1b3e",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_7cc5140f-fc30-4956-9dbc-a1df1dffa9d5",
+      "name": "FREEDOM GUMDAM",
+      "path": "images/wrld_7cc5140f-fc30-4956-9dbc-a1df1dffa9d5.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 82541,
+      "sha256": "56f9b8f703e58614733d5666443ea2cbe22770d360efc2fc847c9f93bf0cf8e7",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_737674d8-06c5-4382-8e73-2e1e2b2d8054",
+      "name": "泉州巷子·中山路＼Quanzhou Lanes · Zhongshan Rd＃18",
+      "path": "images/wrld_737674d8-06c5-4382-8e73-2e1e2b2d8054.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 85100,
+      "sha256": "94326e094214494607323160452b138b1335022e792d25b1a5843b7e2bda6c52",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_8064d109-c90f-4e39-a980-e5b3a229e208",
+      "name": "上海白玉兰观景台（3DGS）",
+      "path": "images/wrld_8064d109-c90f-4e39-a980-e5b3a229e208.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 73003,
+      "sha256": "804e936f928be2188491c5b2459b992a749a462bc70ec057afcc005ba7ebc2e6",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_e9568628-e689-4329-893a-1a18de082c8a",
+      "name": "Micro Center",
+      "path": "images/wrld_e9568628-e689-4329-893a-1a18de082c8a.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 80663,
+      "sha256": "3245a37059a18b537df643d59b90f1bc4db7b4872bac3fa74abb0a6ead3c86e3",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a12ae9be-67eb-4ac2-98b4-41acf5231a90",
+      "name": "3D Scan·厦门·幸福路＼Xiamen · Xingfu Road（Night）＃9",
+      "path": "images/wrld_a12ae9be-67eb-4ac2-98b4-41acf5231a90.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 59467,
+      "sha256": "aca8da09d31f8b27dc81e90b84459e37867ea50c8cd334db8f77f7f3320eddd5",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_d68b8683-8840-4e7f-868f-27f75c9b96dd",
+      "name": "St Louis Gateway Arch",
+      "path": "images/wrld_d68b8683-8840-4e7f-868f-27f75c9b96dd.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 50778,
+      "sha256": "d0b99a1c58e24acc412b6dda5e74c08139e14db89fb9c7134d6c4917825c4af1",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_175c75db-8a28-4d1f-accb-d9e10bac433b",
+      "name": "Virtual Roman Pantheon",
+      "path": "images/wrld_175c75db-8a28-4d1f-accb-d9e10bac433b.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 76695,
+      "sha256": "5590e0c2f1836b178e00847e1534b9161318d6664bf09d83c0a74f2f520e17b9",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_8c164f20-f502-41e0-95a3-84645d280d1f",
+      "name": "Konstantin Vasilyev Museum",
+      "path": "images/wrld_8c164f20-f502-41e0-95a3-84645d280d1f.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 91269,
+      "sha256": "f7449e3b19aa1a829763e30d74e6e07d0b430481d6cb075237ea890f9e16b86d",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_93f362d3-5b80-4707-942e-61ec4a8808f5",
+      "name": "Casa Armet",
+      "path": "images/wrld_93f362d3-5b80-4707-942e-61ec4a8808f5.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 53396,
+      "sha256": "b8e1c10977497fe2abae1a982e9f12b97fb45c5d41858b4938b11a1e7aa859d4",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_56ffce22-bd90-4208-9922-08f134d0c701",
+      "name": "Spreehalle",
+      "path": "images/wrld_56ffce22-bd90-4208-9922-08f134d0c701.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 68761,
+      "sha256": "4f021c3d4ddb51506b9f82de45f58fd0deaae5d99ef2c1ebc14565fee984acb2",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_19cda793-bd31-4637-bdb5-5aadc71fa550",
+      "name": "Transfagarasan Bâlea Drive ｜ トランスファガラシャン",
+      "path": "images/wrld_19cda793-bd31-4637-bdb5-5aadc71fa550.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 48136,
+      "sha256": "385a5b1828c55e0ea01a99d82c9ea1057e11fe58b378953978e24113252e0916",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_7da41720-81d5-41a0-a17e-f2c6b763fd73",
+      "name": "3DScan 深夜の横浜散策 臨港パーク⁄Late-night Stroll in Yokohama - Rinko Park",
+      "path": "images/wrld_7da41720-81d5-41a0-a17e-f2c6b763fd73.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 91781,
+      "sha256": "edf2a5e5e38752b0497ae7185ec05a54926d65b7d7c3c9328539ee78f8bde7ab",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_bbf3c393-0acf-4153-b96d-9c6644ac0643",
+      "name": "国道駅 Kokudo Station （3DGS）",
+      "path": "images/wrld_bbf3c393-0acf-4153-b96d-9c6644ac0643.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 88953,
+      "sha256": "e20edf6af47895b2915a9681aba7c997ad4d77e329c787444ac542514df78b22",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_ef7aadca-9ccb-4457-86f4-31f96e56b914",
+      "name": "［3DScan］肇庆-宋城骑楼街 ⁄ Zhaoqing-Songcheng Arcade Street",
+      "path": "images/wrld_ef7aadca-9ccb-4457-86f4-31f96e56b914.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 74927,
+      "sha256": "4d200d4d54533d3316d2690d963a138a7355cb3080fa30e91a5a49c72b45b6c3",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_64661920-ade3-4b3c-8ec2-0535a3dd1bab",
+      "name": "Foggy Golden Gate Bridge",
+      "path": "images/wrld_64661920-ade3-4b3c-8ec2-0535a3dd1bab.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 46268,
+      "sha256": "280a9daca65a4584ff67d303c451d2cd0174690baf0c6b48ce52013f95690a4f",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_b8b737b6-583c-4366-8076-b71caa425211",
+      "name": "3DScan 片瀬江ノ島駅 3DGS",
+      "path": "images/wrld_b8b737b6-583c-4366-8076-b71caa425211.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 80488,
+      "sha256": "03546e71eeb4a7895251ad3f2c485122318733e23867b8818cc624fcbd6daa46",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_fe653f1a-2a54-4ef1-b654-b0468ec37010",
+      "name": "Hong Kong Station",
+      "path": "images/wrld_fe653f1a-2a54-4ef1-b654-b0468ec37010.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 80696,
+      "sha256": "69b868d9fbf3133d3d1b0d84b499b874a99a7eda30aa145ec9987e7588cf37f7",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_3ec6eb37-060e-4320-a68d-97418f5c316a",
+      "name": "Cavern Club",
+      "path": "images/wrld_3ec6eb37-060e-4320-a68d-97418f5c316a.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 75619,
+      "sha256": "0ce4469c057602dc894619b2c2979ab4aab4478ca847a1ac2d807ae03fb19976",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_552e42f1-376c-4ff2-9029-8e732258d9a5",
+      "name": "St Bride's Crypt Museum",
+      "path": "images/wrld_552e42f1-376c-4ff2-9029-8e732258d9a5.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 80942,
+      "sha256": "264a4a2c687845140c84ddd9a6078aa9057c8e547e3f2c2d7fab5928072dc1b7",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_d41b3491-fe05-4cc2-af7b-ff9ef44336ca",
+      "name": "St Dunstan In The West",
+      "path": "images/wrld_d41b3491-fe05-4cc2-af7b-ff9ef44336ca.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 90433,
+      "sha256": "6e135f91d81c52c7aa0c684fdd0f272a9c82cad2d01856223e514755080b32a8",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_df91898f-d5ac-42ca-97b0-1fd15d4a7aac",
+      "name": "All Hallows by the Tower church",
+      "path": "images/wrld_df91898f-d5ac-42ca-97b0-1fd15d4a7aac.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 70873,
+      "sha256": "b08d44339ef5231098f5d892835ca93c7674481160f0d89ce9ff4f9ab4afbda9",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_82d1274b-d21c-4785-a057-cea9548dd2c1",
+      "name": "Digital Ueno Zoo West",
+      "path": "images/wrld_82d1274b-d21c-4785-a057-cea9548dd2c1.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 87686,
+      "sha256": "997df2f3ac16c44bd90ed66d98bb619a04af304b4e31e7610942f1bbde3c007b",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_ce41f158-95f5-4737-a916-cc4920f2b3b0",
+      "name": "Digital Ueno Zoo East",
+      "path": "images/wrld_ce41f158-95f5-4737-a916-cc4920f2b3b0.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 86666,
+      "sha256": "eb535cfb095704e9b8ae14989d2275ce6c2255df5a486ad489d469b5e2a6c4fe",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_277f0304-3693-4380-84a9-b86689836696",
+      "name": "NT京都2025 京都市 西院春日幼稚園・春日神社境内 ＃NT京都",
+      "path": "images/wrld_277f0304-3693-4380-84a9-b86689836696.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 84910,
+      "sha256": "2dd9928ec5c2a17afbc3121677ceab275773f7831d4f59ce0f7c968ec740b468",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_45d430c0-2a0c-4d7b-b848-bd950fda5e5f",
+      "name": "- 川北東橋 ⁄ Kawakita-higashi Bridge - 3DGS",
+      "path": "images/wrld_45d430c0-2a0c-4d7b-b848-bd950fda5e5f.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 68160,
+      "sha256": "2c151ef2fbef6bbcdcc5b30518dffc1d28b2c26e463eee14bbe2d337072262ac",
       "status": "ok"
     }
   ]
