@@ -6660,6 +6660,46 @@
       "bytes": 68160,
       "sha256": "2c151ef2fbef6bbcdcc5b30518dffc1d28b2c26e463eee14bbe2d337072262ac",
       "status": "ok"
+    },
+    {
+      "worldId": "wrld_970fb410-f3f1-439a-80db-be985205dcb0",
+      "name": "Petra",
+      "path": "images/wrld_970fb410-f3f1-439a-80db-be985205dcb0.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 95186,
+      "sha256": "6f37d06cb2fba3178170ec008e89e3e3c39f70d0adafbd2692ed1b2c7b3faffc",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a0158342-8008-4aed-b12f-7b113fe4703c",
+      "name": "Launch Experience of STS-134",
+      "path": "images/wrld_a0158342-8008-4aed-b12f-7b113fe4703c.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 29689,
+      "sha256": "e0449625333adfe0e481abf616b6fc98ae6855b769000ec7185a4a6cc66d9fa8",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_c637fc65-34b7-453a-8f42-5c4be393b06a",
+      "name": "Fleet Street Hill Tunnel",
+      "path": "images/wrld_c637fc65-34b7-453a-8f42-5c4be393b06a.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 118389,
+      "sha256": "0763a9b6d87a4a490f199ebeba2c1f73e82b6294cbd9d2f75fbbda93a4247ccf",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_c5878c5a-3dd7-416f-81a6-83105a2100bf",
+      "name": "Sobaya TNB",
+      "path": "images/wrld_c5878c5a-3dd7-416f-81a6-83105a2100bf.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 90916,
+      "sha256": "908690dd3cfa728f41ea71af070fa69006a76ff54fb288fc2aeaffaf23709182",
+      "status": "ok"
     }
   ]
 }
