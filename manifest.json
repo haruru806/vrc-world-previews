@@ -7182,16 +7182,6 @@
       "status": "ok"
     },
     {
-      "worldId": "wrld_a003648d-6dbf-44ff-a003-49187ac822e9",
-      "name": "Chapel of the Holy Sepulchre",
-      "path": "images/wrld_a003648d-6dbf-44ff-a003-49187ac822e9.png",
-      "width": 256,
-      "height": 192,
-      "bytes": 104664,
-      "sha256": "dc0b97069798555448f6a1edc2df726373908d572f6fb6bd373de2564effaa2d",
-      "status": "ok"
-    },
-    {
       "worldId": "wrld_a3f03746-f46f-4c93-93b7-f21ddfdb5fd8",
       "name": "kowloon walled city（_doo_）",
       "path": "images/wrld_a3f03746-f46f-4c93-93b7-f21ddfdb5fd8.png",
