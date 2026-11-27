@@ -6700,6 +6700,946 @@
       "bytes": 90916,
       "sha256": "908690dd3cfa728f41ea71af070fa69006a76ff54fb288fc2aeaffaf23709182",
       "status": "ok"
+    },
+    {
+      "worldId": "wrld_01543f8c-87c1-4267-9006-4884cdd864fd",
+      "name": "KEK 教育加速器展示室（メタバース加速器博物館）",
+      "path": "images/wrld_01543f8c-87c1-4267-9006-4884cdd864fd.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 67687,
+      "sha256": "c864e4ef7ae89b3ca8d7fa5849584c2b768e44d68fcf0ed51a997bd293f5d777",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_06cf53be-049c-4562-9fb0-f46792597cb0",
+      "name": "Chernobyl Nights [BETA]",
+      "path": "images/wrld_06cf53be-049c-4562-9fb0-f46792597cb0.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 54529,
+      "sha256": "449770320620d56361e05970777cb17e97c0ab34ebc248a1886415ec1abe79aa",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_0f4f1fdf-5712-427e-bee2-ec5e6d69cc40",
+      "name": "3Dガウシアン 北海道 館の岬（たてのさき）",
+      "path": "images/wrld_0f4f1fdf-5712-427e-bee2-ec5e6d69cc40.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 124021,
+      "sha256": "470c8f9107f576141861ecd590b3eefbec1365554be35838b3de43a26a5c6bdb",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_10ffd05e-2023-4fe8-a4b4-70c27b00e489",
+      "name": "Tokogrammetry Museum",
+      "path": "images/wrld_10ffd05e-2023-4fe8-a4b4-70c27b00e489.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 69797,
+      "sha256": "a5b484839ce82dfe35095337c877d5ecb9599c62caa110e5e92d2428fcf48d2f",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_119882e6-d771-4c82-bb04-08e613e5c928",
+      "name": "Rooftop - Apple Corps - TBRB",
+      "path": "images/wrld_119882e6-d771-4c82-bb04-08e613e5c928.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 76869,
+      "sha256": "4347e13a7ef0bc2e780cae446c1394682371764966352dcc33f4c1d413d1f5b5",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_14717658-19f5-488f-8e52-bd36bda19bc1",
+      "name": "AzuchiVerse（VoxelKei）",
+      "path": "images/wrld_14717658-19f5-488f-8e52-bd36bda19bc1.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 100629,
+      "sha256": "d4eca48891808ef8f329f3d6b2d8a9ef87fea788e211eadb84d1730681cf94aa",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_18fd4185-01ca-467e-af25-567ec1b1364a",
+      "name": "Yakuza 6 - Senkō-ji Temple",
+      "path": "images/wrld_18fd4185-01ca-467e-af25-567ec1b1364a.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 103211,
+      "sha256": "a97f700ac96b12699b31784eaff7271e495c105a408e6c18c8aee69e8d49ff43",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_23542fee-6e95-453a-a921-d3f76f4dbe44",
+      "name": "こもれびの滝 フォトグラメトリ（ティオ＠timaios）",
+      "path": "images/wrld_23542fee-6e95-453a-a921-d3f76f4dbe44.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 97349,
+      "sha256": "dd8d5547098d772bc39ca8a92c48c3ce53220c9bcb2600d322b05e77cca850dd",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_23adf31c-30dc-47ca-8c79-3d16e6ff5a91",
+      "name": "超かぐや姫聖地再現 サンサンロード",
+      "path": "images/wrld_23adf31c-30dc-47ca-8c79-3d16e6ff5a91.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 107337,
+      "sha256": "831e6d763cd0f7ceac142dc08bab68b4f7b9050bbeeaa332cc062cdbc8e083a6",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_27fd5347-266a-491c-8c78-313d85238225",
+      "name": "The Undercroft（Affian）",
+      "path": "images/wrld_27fd5347-266a-491c-8c78-313d85238225.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 70654,
+      "sha256": "388c265590f8b83a508b3806f1f7902d5a13dd0a22c0ce9ff19dcb64e17b95a1",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_29183298-8559-4bae-a7c6-1a1b1be2271c",
+      "name": "カシオペア＠上野駅13番線 Cassiopeia - Platform 13‚ Ueno Station（monoi_sakura）",
+      "path": "images/wrld_29183298-8559-4bae-a7c6-1a1b1be2271c.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 104043,
+      "sha256": "f5174937d40957403e54ae5894fb94301f90d18f03a087f9b4fdd4dae94a2b08",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_2aef0d68-61bb-4879-b289-e43688293b1e",
+      "name": "角屋もてなしの文化美術館（Morpheus3D）",
+      "path": "images/wrld_2aef0d68-61bb-4879-b289-e43688293b1e.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 105558,
+      "sha256": "8d5fd1096107e0e354e8200ac8f4875c68996b74a6dcf1ccb62ade155d4a2c67",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_35049856-557a-4803-8440-df683209218d",
+      "name": "3Dガウシアン 北海道・道南 江差町「かもめ島」",
+      "path": "images/wrld_35049856-557a-4803-8440-df683209218d.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 123962,
+      "sha256": "86af13cc73350b875d0d9b559bf6306e2b0d01b034beb5711274536c99faf825",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_367b450d-1951-4363-9e17-0ffb5b16fbc2",
+      "name": "Kaplnka na Zvolenskom zámku（MIRAI＠）",
+      "path": "images/wrld_367b450d-1951-4363-9e17-0ffb5b16fbc2.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 95787,
+      "sha256": "69704f8542cb65c9be1c5165e53b17b80900d8b059831b7327dd6d802a99c3e6",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_3765360e-577f-4716-96ae-526a4131eedc",
+      "name": "十分（シーフェン）＼Shifen（朝ノ ヨウソ）",
+      "path": "images/wrld_3765360e-577f-4716-96ae-526a4131eedc.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 105974,
+      "sha256": "7cbf41f7167633d9fa1bd5b3b465415dcac5298f5caa837a8c806b05e49f91c3",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_3861d586-41d7-451d-b856-a84103eb72e6",
+      "name": "MakerFaireTokyo2024-東京ビッグサイト TOKYO BIG SIGHT-",
+      "path": "images/wrld_3861d586-41d7-451d-b856-a84103eb72e6.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 85019,
+      "sha256": "df28f7df1be874a100c41f1c995e919dcb5a80c982954760f982cf65725effcb",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_3a4500cd-6eee-4ccd-9acc-2577e69a6745",
+      "name": "バーチャル倉吉：サブエリア（倉吉市／Mogura）",
+      "path": "images/wrld_3a4500cd-6eee-4ccd-9acc-2577e69a6745.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 79433,
+      "sha256": "037fb31c8b31eef0366c2c19c13b73dca7067bbf7aca2b521fcc288cc90cf9aa",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_4734371e-29e0-42fb-a79b-a51d4e52d2e1",
+      "name": "Willy's Chocolate VR Experience（greybell）",
+      "path": "images/wrld_4734371e-29e0-42fb-a79b-a51d4e52d2e1.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 98490,
+      "sha256": "7f9cda6b6b9173c28d0c4f438576c742eeb6c880a80f33a55d6f6f1579ba320a",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_474c2e14-0797-4f9d-b11e-a77537b705de",
+      "name": "3Dガウシアン 北海道 函館市 五稜郭公園",
+      "path": "images/wrld_474c2e14-0797-4f9d-b11e-a77537b705de.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 132535,
+      "sha256": "29fa966091c3171f3beaa074a3e2ffd1a60698ace171390bf5c429def035a929",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_4b31e048-35b5-48bc-b781-51e00c128def",
+      "name": "Theatrum Marcelli（Caroline Alpes）",
+      "path": "images/wrld_4b31e048-35b5-48bc-b781-51e00c128def.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 87265,
+      "sha256": "e7827f1ebdbee0c74031fff6a6135d7dbc0eaf102ed9f094848c2d2ce543a260",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_4cb9af25-cbc5-4440-a0bd-10ac1fd61f8b",
+      "name": "Spookslot VR V2",
+      "path": "images/wrld_4cb9af25-cbc5-4440-a0bd-10ac1fd61f8b.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 119071,
+      "sha256": "9b4fc8fa450662ee0bbc2724a6202008bb331a1420df9ab1463bbd8c1a18791a",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_4f0c8ef6-aa97-4645-a707-3e1a028f8644",
+      "name": "【与那国島】ティンダバナ",
+      "path": "images/wrld_4f0c8ef6-aa97-4645-a707-3e1a028f8644.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 98089,
+      "sha256": "01069636b556c2900599f879ca981261853634da5b5674d136b4687e000d5154",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_4f9641d0-fc69-4542-9690-938381cb1784",
+      "name": "Santa María de Melque（JayOttr）",
+      "path": "images/wrld_4f9641d0-fc69-4542-9690-938381cb1784.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 94945,
+      "sha256": "e8baea1737b39d6afcbff7f2c5110d6f6f3ddc58c9c32587f70221f22c94c1a1",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_5170c16b-fede-4ea6-b60c-56ff6bec47af",
+      "name": "Cassiopeia Twin 4号車21・22号室【Photogrammetry】",
+      "path": "images/wrld_5170c16b-fede-4ea6-b60c-56ff6bec47af.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 73407,
+      "sha256": "cbc32432627fdc1b6bdc430f34fcfaacbcdd181579ae37398e37484c7bb4dee0",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_58710e35-3d44-4487-a429-8b36580a8a17",
+      "name": "GS神戸大橋-Kobe Bridge-（みかん電機-Mikan-）",
+      "path": "images/wrld_58710e35-3d44-4487-a429-8b36580a8a17.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 77406,
+      "sha256": "4f32523a52cda43bca52220230556ca22485856467e71ad6c085be736b3bc5fe",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_58978314-6168-4790-903a-ca931e11b180",
+      "name": "Emi Koussi Volcano Crater",
+      "path": "images/wrld_58978314-6168-4790-903a-ca931e11b180.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 73977,
+      "sha256": "cd48e65db12519ecbd64f82874dc2f964b2b57ac8c63c89f30ef411f004e481a",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_6460a8b5-ca57-4032-9287-ee18cb2043b7",
+      "name": "Labyrinth",
+      "path": "images/wrld_6460a8b5-ca57-4032-9287-ee18cb2043b7.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 68171,
+      "sha256": "3d228390db0ac71044605c2cb49d74a50b74ac1b5b54f0114733c2c6688afb57",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_6592ef6e-c71c-4e9b-894f-112abf81ca64",
+      "name": "西環（サイワン）鐘声スイミングシェッド／Sai Wan Swimming Shed（朝ノ ヨウソ）",
+      "path": "images/wrld_6592ef6e-c71c-4e9b-894f-112abf81ca64.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 103672,
+      "sha256": "35d6933b8dc8df3b1d0af6e4f5f926cf4f1820f343bd670dac0fbb4af2c43bc2",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_66cbaeef-63b4-49c5-baf6-bfca6bbea093",
+      "name": "デジタル ハクドウ駅（東京藝術大学）",
+      "path": "images/wrld_66cbaeef-63b4-49c5-baf6-bfca6bbea093.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 91740,
+      "sha256": "500b11ba7f9dec264c37c321bf45ece6ce37eda83d295572661ebc8bae5bfbd0",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_69d45791-c752-4a7c-9d5b-c982998115d7",
+      "name": "Niagara falls",
+      "path": "images/wrld_69d45791-c752-4a7c-9d5b-c982998115d7.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 81355,
+      "sha256": "0dfcdf31c18bf6e658e7bf1056e19f84bd13377565a55703ed84cb99dc30dcce",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_6b0200da-c132-4af7-9fd7-05beb58a8115",
+      "name": "Mayakan VRC（VoxelKei）",
+      "path": "images/wrld_6b0200da-c132-4af7-9fd7-05beb58a8115.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 78306,
+      "sha256": "fdef2b51bec85aa786f2f97ef2ca652ab530fb532a301d2c4fe61411e5f92029",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_6c57c325-7061-4a46-9278-705e653c3b69",
+      "name": "尾去沢鉱山フォトグラメトリ",
+      "path": "images/wrld_6c57c325-7061-4a46-9278-705e653c3b69.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 118226,
+      "sha256": "182acc6e309bc9818d3375f04c1c7ab11b512d88ad69165ea2d0c70bc59b94b2",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_71bbd766-dec7-48de-8baa-6da6de17e16b",
+      "name": "3Dガウシアン 再現ワールド「函館・四稜郭公園」（ひかるノースランド）",
+      "path": "images/wrld_71bbd766-dec7-48de-8baa-6da6de17e16b.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 104503,
+      "sha256": "a921bebe1a692adf6e7772bdc83a13e66ba2675274466fe9bd53d0de22b6b1f9",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_7a6805a7-47f7-45a3-9b63-ce9149f01a11",
+      "name": "みとうさんぐち駅2024 Abandoned Ropeway",
+      "path": "images/wrld_7a6805a7-47f7-45a3-9b63-ce9149f01a11.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 106227,
+      "sha256": "901d36a6dd7269840ff60d3de5e5f4f6d669e98fc6bf0f24aa802db40191a290",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_7d85c128-db7b-44cd-87f8-94d534b34f1e",
+      "name": "The Imagination Pavilion（GuusDeKroon）",
+      "path": "images/wrld_7d85c128-db7b-44cd-87f8-94d534b34f1e.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 88441,
+      "sha256": "3ba6c6219272d6686f14400a767415ae17afbab7296c732521036e24f0f740af",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_7f4ec195-67f8-452a-9f04-ff64a949261c",
+      "name": "［3DGS］Xishuangbannna MantingPark（KOKOROДO）",
+      "path": "images/wrld_7f4ec195-67f8-452a-9f04-ff64a949261c.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 114820,
+      "sha256": "7344bd7e3ebb5754617a22ee6810b2bf2c5ad39e7c96f6b9a10a93c0334b1e3c",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_8048db64-1143-48d6-9d04-ebf0dfdc2792",
+      "name": "Castra Praetoria（Caroline Alpes）",
+      "path": "images/wrld_8048db64-1143-48d6-9d04-ebf0dfdc2792.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 74896,
+      "sha256": "f78891275c3b5d107b45605690da40a759331dd8af22475c1b8e0d43274eb09f",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_82268f58-7f27-4bc7-8c97-31ca658af0d4",
+      "name": "VR村上城 VR Murakami Castle（n_aohito）",
+      "path": "images/wrld_82268f58-7f27-4bc7-8c97-31ca658af0d4.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 86604,
+      "sha256": "4fdd153f433b835c14054c2bc9f59c14451cbc3899b86f6dcaef40dff3888189",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_8551a443-77a6-4140-bd3e-a78a36de73b6",
+      "name": "友ヶ島第3砲台跡",
+      "path": "images/wrld_8551a443-77a6-4140-bd3e-a78a36de73b6.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 99542,
+      "sha256": "dc1172defa06c799feb3bd01ab4670b3124ea34fd90426d15d7de0ccf77cd404",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_85fe48cd-d855-4276-b633-c7c95a49e312",
+      "name": "地層フォトグラメトリ（鵜沼の層状チャート）",
+      "path": "images/wrld_85fe48cd-d855-4276-b633-c7c95a49e312.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 125547,
+      "sha256": "6b879f316c20d6130d5f2519c11726df03f6b07aa1fa086211a23ed4f4f3c4ce",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_88fbc7a1-ef29-4d29-a052-f0214d6c7f7a",
+      "name": "語り続ける戦争遺跡 war ruins ⁄ Chunichi Shimbun",
+      "path": "images/wrld_88fbc7a1-ef29-4d29-a052-f0214d6c7f7a.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 61936,
+      "sha256": "48c03f3852010e3179d2f11cfe21aea38156a7323ba3882f2af26bdddbf3a494",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_8bf975c4-2a47-4459-b203-2295950fc7b5",
+      "name": "Back to the Future The Ride（MehStrongBadMeh）",
+      "path": "images/wrld_8bf975c4-2a47-4459-b203-2295950fc7b5.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 65464,
+      "sha256": "289afdffa2ec13e60e083ad851cfa3e8214b0871c5f816ee1fa31ac38a3ddc42",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_8eb0340b-bef8-4710-af4b-28edc451b875",
+      "name": "3Dガウシアン 函館市 青函連絡船記念館 摩周丸",
+      "path": "images/wrld_8eb0340b-bef8-4710-af4b-28edc451b875.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 106670,
+      "sha256": "7c09d791d7a453429247aed90535ff46943b5d7236ecdbf1ddde414e10ceec8a",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_9710e8e1-2ffa-4b95-a0d8-2d0e06a93876",
+      "name": "3DScan 深夜の横浜散策 帆船「日本丸」",
+      "path": "images/wrld_9710e8e1-2ffa-4b95-a0d8-2d0e06a93876.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 108356,
+      "sha256": "7e74d5f906fa34b1f22058cff4d36757ee7d6a7dc04528e1cdf6848d2f98167c",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_971ff150-4d17-4057-91a0-e383dc683470",
+      "name": "大川荘（XRONOZ）",
+      "path": "images/wrld_971ff150-4d17-4057-91a0-e383dc683470.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 105464,
+      "sha256": "b09d1f3bc4f17716debb9ef81840d36ae07419a513edf483e660cf46e150f690",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_99438e12-d8c6-4e61-9594-65a9162d95f6",
+      "name": "Little World - Tokogrammetry Gallery（Tokoyoshi）",
+      "path": "images/wrld_99438e12-d8c6-4e61-9594-65a9162d95f6.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 112102,
+      "sha256": "5b8bc67b7e9ec3473eed87d38bbcffac9752b881ce36c50327adbda233c7da73",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_996c08b5-fb3b-4459-bd4d-c6939d225f1d",
+      "name": "ファンメイドVR野辺山天文台",
+      "path": "images/wrld_996c08b5-fb3b-4459-bd4d-c6939d225f1d.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 69641,
+      "sha256": "06b2eb2d2abcacb071223d4ba2516af50413421eaf6a0e4c312d7c4e70d9d63f",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_9e50727a-7eb2-45bc-8e6d-220eee0989b3",
+      "name": "Nakagin Capsule Tower 3DDA",
+      "path": "images/wrld_9e50727a-7eb2-45bc-8e6d-220eee0989b3.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 53949,
+      "sha256": "f4c5167c176ad84adb987ea47dcb870b454c485c164461a99cbd5a24b9519d70",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a003648d-6dbf-44ff-a003-49187ac822e9",
+      "name": "Chapel of the Holy Sepulchre",
+      "path": "images/wrld_a003648d-6dbf-44ff-a003-49187ac822e9.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 104664,
+      "sha256": "dc0b97069798555448f6a1edc2df726373908d572f6fb6bd373de2564effaa2d",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a3f03746-f46f-4c93-93b7-f21ddfdb5fd8",
+      "name": "kowloon walled city（_doo_）",
+      "path": "images/wrld_a3f03746-f46f-4c93-93b7-f21ddfdb5fd8.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 71166,
+      "sha256": "b3d1678c6e3f929b575e821867cd568bbdad29036e33a8ec665b2ce9515b6d5c",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a5500d10-f7ab-408c-b424-7142f838fd63",
+      "name": "白龟湖湿地公园（兔肉火烧）",
+      "path": "images/wrld_a5500d10-f7ab-408c-b424-7142f838fd63.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 115494,
+      "sha256": "1d137bb6ba09fc4e7b94fc790edd0efd144b9744c42cbb30e467dc15e4259312",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a93dd9f7-2a41-45aa-b94f-0da5323f5754",
+      "name": "SANKENKYOU",
+      "path": "images/wrld_a93dd9f7-2a41-45aa-b94f-0da5323f5754.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 98479,
+      "sha256": "08b7cc9a64e599387a89a8f5aa1bfc3f14cdc8dad689c9dab858b44d4c6036b6",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_a951ac87-ce7c-45dc-a5ca-ac7c4d1d8afd",
+      "name": "［CVS2］VFE条鋼 筑和製造所",
+      "path": "images/wrld_a951ac87-ce7c-45dc-a5ca-ac7c4d1d8afd.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 66127,
+      "sha256": "8311aeb14ce96d309422b08183ed08a06909ee53522535d7ef4eb91f6602d57f",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_ad7cb9e1-ca38-4e03-bcd6-10bb03700c99",
+      "name": "城ヶ島馬の背洞門 Umanose（Horseback）Sea Cave",
+      "path": "images/wrld_ad7cb9e1-ca38-4e03-bcd6-10bb03700c99.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 81743,
+      "sha256": "7f6e6c4522d42119a0ff36f4d7cc23950f69d6b7c366b736afc65a0203953ea3",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_ae37d78b-93f1-485f-95f6-10089c41d78b",
+      "name": "Ikki-Kajiwara's Sanctum",
+      "path": "images/wrld_ae37d78b-93f1-485f-95f6-10089c41d78b.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 81884,
+      "sha256": "2a47da2633d2b77ba1e4d8c3deca8bfa169f6fd33598ede144148b5efb98152b",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_b131ef12-e20f-467a-b3c2-eae919f60239",
+      "name": "志免鉱業所竪坑櫓 Winding Tower of Shime Coal Mine（nyull）",
+      "path": "images/wrld_b131ef12-e20f-467a-b3c2-eae919f60239.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 76209,
+      "sha256": "4806b77ff26e78ce4d0dea26200a85ca323aad4575999c95cd40a151cdf9754c",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_b46ef96a-11b4-400a-ae09-1ebb77e214da",
+      "name": "VISARUN˸ Island of Waiting ⁄ 待つ人の島",
+      "path": "images/wrld_b46ef96a-11b4-400a-ae09-1ebb77e214da.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 82533,
+      "sha256": "fb293a2f4a2cf6fc24337d1069abd521dd50e4b81c322b569395c13c103ab281",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_b56e4c81-1fa1-4760-ae33-5f34005416a0",
+      "name": "NGSYK Home",
+      "path": "images/wrld_b56e4c81-1fa1-4760-ae33-5f34005416a0.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 72000,
+      "sha256": "9e359a851f0c53be5bbf8fe0803639adcbb9da72832985a74fb1a659269b12ec",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_b795f66f-4181-4200-92bb-c040bc6f2188",
+      "name": "Azure Swimming Pool - Pripyat（AIGUL249）",
+      "path": "images/wrld_b795f66f-4181-4200-92bb-c040bc6f2188.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 64421,
+      "sha256": "f5f9b68eeb19894645d015af450034f3ef7c28efb7faf0a93a83447156313e1f",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_bb32812d-66d7-416d-aaa5-7cf5085e5eaf",
+      "name": "Theatrum Pompeii（Caroline Alpes）",
+      "path": "images/wrld_bb32812d-66d7-416d-aaa5-7cf5085e5eaf.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 80365,
+      "sha256": "af20c4cd717a29aac37df54ab0c878b3a7f0e284620d31d8d1fd7bb00af61f02",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_bbb77155-1015-4828-8e4c-bbccef84e038",
+      "name": "筑波大学タンデム加速器施設UTTACーメタバース博物館（accel-museum、訪問記表記）",
+      "path": "images/wrld_bbb77155-1015-4828-8e4c-bbccef84e038.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 88751,
+      "sha256": "520019a357acca8b0ce95657630b58aa3a64f1e32e337676b2fedd8003dfce6d",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_bf1fd727-e955-4994-8f3f-30ae04eed8e3",
+      "name": "Yokohama",
+      "path": "images/wrld_bf1fd727-e955-4994-8f3f-30ae04eed8e3.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 104857,
+      "sha256": "6d0736dfde3b5ff9927e8500f882a3439730de5fe2fb6470815641d78156ed85",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_c438719e-9be1-4c8f-b166-3a2a6fd21e98",
+      "name": "SPring-8（S_ASAGIRI）",
+      "path": "images/wrld_c438719e-9be1-4c8f-b166-3a2a6fd21e98.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 93461,
+      "sha256": "2fb67f426a9bdceb22c14999887df9109e6b057931cfe5c00bcea84461ca3096",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_c84548c4-9357-4ec4-9afc-eac7d7a191ba",
+      "name": "ALMA",
+      "path": "images/wrld_c84548c4-9357-4ec4-9afc-eac7d7a191ba.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 53141,
+      "sha256": "e24d6ad52177b7dfc50daf290ed9776746d308b87c5ba83b303a8658d6158c92",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_ca552e13-189f-4ead-a838-26ebc4764317",
+      "name": "Ancient Olympia（ArchaeoXR）",
+      "path": "images/wrld_ca552e13-189f-4ead-a838-26ebc4764317.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 106220,
+      "sha256": "0f50423ef3e99bd2d1826bd814fb828c4acb9d0f16cb28b919a647b411552fc8",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_cc5602d6-1d3e-47ab-85df-60473d3b384c",
+      "name": "宮ヶ瀬ダム（perapera）",
+      "path": "images/wrld_cc5602d6-1d3e-47ab-85df-60473d3b384c.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 114949,
+      "sha256": "2a76ab2c924b6e2b5f08ca8aa3aca9a0ab497ca1072d21957d09c95e210d2258",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_d1ad9e12-eb3c-4e74-8138-79c9be814537",
+      "name": "下渕商店街 〖Shimobuchi Market〗（Tokoyoshi）",
+      "path": "images/wrld_d1ad9e12-eb3c-4e74-8138-79c9be814537.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 107766,
+      "sha256": "fecbb5f1553eedb3adbe9d239e421c40cd5a1588e59ac4c4285a36e0d56dd379",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_d37b542e-7925-4fba-b366-a29bc75b81c2",
+      "name": "リクバシ -三鷹跨線人道橋- Mitaka Pedestrian Overpass（monoi_sakura）",
+      "path": "images/wrld_d37b542e-7925-4fba-b366-a29bc75b81c2.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 107015,
+      "sha256": "029fe3fc0c196a24dc56cc2ffcaa7652655020fcf2d97eb4fd33127e6b53c8fd",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_d627eedb-8a05-4a2a-8468-a95ddb0b82b3",
+      "name": "［3DGS］ 金村別雷神社 ⁄ Japan autumn shrine（モンティノ）",
+      "path": "images/wrld_d627eedb-8a05-4a2a-8468-a95ddb0b82b3.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 122004,
+      "sha256": "c316e329ee42f2232cf86f39431b6a85c2d377c7dae7337514551274527e05de",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_da23378f-36a9-41d1-9718-1cd26c8df893",
+      "name": "宝珠山（朝ノ ヨウソ）",
+      "path": "images/wrld_da23378f-36a9-41d1-9718-1cd26c8df893.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 112522,
+      "sha256": "f2ec5d082320c7b03f5c7b536fe52301fc22c09054ebec8fa74775c534d5ba8f",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_e14256d0-bc91-4048-9a91-1d7faea43d66",
+      "name": "Nippara Limestone Cave",
+      "path": "images/wrld_e14256d0-bc91-4048-9a91-1d7faea43d66.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 83499,
+      "sha256": "984af055d279fd07ad2fd5563ce1074062c416e2688fb236900e33ee05183f5a",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_e14dbc6b-916d-4116-98c7-0a95ba2380e4",
+      "name": "1976 BEAMS（企画：BEAMS／制作：カデシュ・プロジェクト）",
+      "path": "images/wrld_e14dbc6b-916d-4116-98c7-0a95ba2380e4.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 59675,
+      "sha256": "d6e847464809ff7e7043915777cc09932ad13a0335e8928b48298dca9b0be935",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_e3031895-214f-4fc2-ae25-6d0dda9b49c4",
+      "name": "江の島（朝ノ ヨウソ）",
+      "path": "images/wrld_e3031895-214f-4fc2-ae25-6d0dda9b49c4.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 88310,
+      "sha256": "42eb58e5b8c2538fa45f9602a9e874e144c058ba47fe4ceee5847e18d55fb6a2",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_e71b9403-9ee6-473f-8d55-4119b8ae7834",
+      "name": "Port Royal - 1690",
+      "path": "images/wrld_e71b9403-9ee6-473f-8d55-4119b8ae7834.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 94166,
+      "sha256": "d0dd8a09d9955872590fd508cc8354a3288990f905b342a504ef3e7d26b35812",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_e7dcd430-5f2a-4c63-bb17-c83abb14fadb",
+      "name": "バーチャル紫電改展示館 / Virtual Shidenkai Museum",
+      "path": "images/wrld_e7dcd430-5f2a-4c63-bb17-c83abb14fadb.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 75067,
+      "sha256": "6adffe8b3f79a75858a0ccce09d00bebf99f03ffba12fd57367c71d4ffc70f0d",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_e837f8e9-3b1c-4963-a8d6-1db6a3232f9c",
+      "name": "World Lantern Boulevard -世界綵燈大街-（Marc_99）",
+      "path": "images/wrld_e837f8e9-3b1c-4963-a8d6-1db6a3232f9c.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 125088,
+      "sha256": "6bec36176460192e6b8ba08d80a44af006ae2455c6147d80e5c1fbc7d4c9f82f",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_eaedb8db-c1cb-4c4b-9872-266dbd215060",
+      "name": "Azgur Museum 3․0",
+      "path": "images/wrld_eaedb8db-c1cb-4c4b-9872-266dbd215060.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 75083,
+      "sha256": "f577432957724948da058c0ef42bfdcacb50189fc83202295f52e23e17a90861",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_ec964013-8562-4a9c-8dd8-e251724d3552",
+      "name": "Just 京都鴨川デルタ（みかん電機-Mikan-）",
+      "path": "images/wrld_ec964013-8562-4a9c-8dd8-e251724d3552.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 92941,
+      "sha256": "6b8e1c45b423d4436f10ed0927f2bb6649a3648086043d6cf0aaa9b80514bcdc",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_ee8e4d68-f425-409a-8a46-c9fc53a0f8fc",
+      "name": "フォトグラメトリ置き場9 photogrammetry9 Friends（minimal97）",
+      "path": "images/wrld_ee8e4d68-f425-409a-8a46-c9fc53a0f8fc.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 94365,
+      "sha256": "2468eb9b71c4660e99a186a1f320f5880a5605bdcf4d5667bdbccb511946cb91",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_f1130472-c8ef-4337-880a-f57045fa343e",
+      "name": "Hatten är din（スクラ Scura）",
+      "path": "images/wrld_f1130472-c8ef-4337-880a-f57045fa343e.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 103617,
+      "sha256": "a2d7bd980aaf2f89462fe08c5d75b14f91567a5d3019344d4656440d490bd07f",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_f2c1f311-3485-4523-b4a0-39cfb29a8955",
+      "name": "Higashiyokobori River",
+      "path": "images/wrld_f2c1f311-3485-4523-b4a0-39cfb29a8955.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 89457,
+      "sha256": "40de974e56f3ba5c8396c2bbdbacbc001817ebdbc744c67e0a535211a4b93476",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_f6c63f92-3c3d-4638-82c1-a28bbf9ff441",
+      "name": "NOTO MATSURI Wonderland",
+      "path": "images/wrld_f6c63f92-3c3d-4638-82c1-a28bbf9ff441.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 57700,
+      "sha256": "e2f74164b3ef88569ebbd1b0dffd774066659775e856592d7609a6eb8e6acfaa",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_f762b757-35a7-49a1-a139-b301597e4e0d",
+      "name": "VketReal in VRChat 2026Summer",
+      "path": "images/wrld_f762b757-35a7-49a1-a139-b301597e4e0d.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 116201,
+      "sha256": "8a859d48c116d82acfd11880da9785965c4910ba8fd5c189aa309c1a85f93830",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_f9dae7c1-c248-48b4-9840-53a7d5f5020a",
+      "name": "きんいろモザイク 聖地巡礼ワールド",
+      "path": "images/wrld_f9dae7c1-c248-48b4-9840-53a7d5f5020a.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 95992,
+      "sha256": "de320ef2685012f5c1ed94cf35e23a50a090b3f47e2a6685cf288b7644cb729b",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_fa6f8cf1-0ce3-41d1-b334-95e7572e245f",
+      "name": "昔秋葉原の近くにあった博物館 v1․0․1（TS_Kanto）",
+      "path": "images/wrld_fa6f8cf1-0ce3-41d1-b334-95e7572e245f.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 72433,
+      "sha256": "e13f83597bce78b5f359665de8cd83b018b10db247872c31ec862f8e80f0f9d1",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_fbe55588-4b0d-4cf7-8952-d6f97b4eddde",
+      "name": "takanawa underpass",
+      "path": "images/wrld_fbe55588-4b0d-4cf7-8952-d6f97b4eddde.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 86000,
+      "sha256": "33260ae7046d718326cd30bf9364f9027d3cee6412857ce1d478a662a6d51a76",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_07e3a779-0717-4530-9d00-4ec7ddebcabb",
+      "name": "Hiroshima Genbaku Dome",
+      "path": "images/wrld_07e3a779-0717-4530-9d00-4ec7ddebcabb.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 108881,
+      "sha256": "d8a79a09cea01b6748c7b30185ed87a37e6c2ba2588c1f33e075f8eef38a5c1d",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_2ffbd761-a9cc-4736-8b9a-2ae356482dab",
+      "name": "Suga Jinja - Otoko-zaka",
+      "path": "images/wrld_2ffbd761-a9cc-4736-8b9a-2ae356482dab.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 114205,
+      "sha256": "3076db0de999e934a29cf13c5f6399eea187230f7a7cd50c8b4af66cc4c0e659",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_9c2cc6f9-9d4d-4f2a-9a25-fdd77472ac0c",
+      "name": "3DScan あじさい寺 3DGS",
+      "path": "images/wrld_9c2cc6f9-9d4d-4f2a-9a25-fdd77472ac0c.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 124225,
+      "sha256": "6fff477aee5d9e3f1b4cd624c952eb57d4b32ae00f2df32ae36e0a9ff264e4cd",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_9ecbc3e8-d9be-48e4-8976-f059e811f44c",
+      "name": "利東街（リートントンガイ）2026月見 Ver․",
+      "path": "images/wrld_9ecbc3e8-d9be-48e4-8976-f059e811f44c.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 93312,
+      "sha256": "1552ccc9be37094366f3433a95be7ae86bcfcf1949fb24c6cbda919144e69006",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_c1b7f71a-4118-4233-b67a-2526cacd1f1c",
+      "name": "コスモスクリエーション-華山町",
+      "path": "images/wrld_c1b7f71a-4118-4233-b67a-2526cacd1f1c.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 86349,
+      "sha256": "0de1bcb5c7df9b39ff265f90f7e58636d47289be2f3ea7ca0ca5b8ae6eee325c",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_c819e9c2-3065-4a67-9cc1-30df2c88761d",
+      "name": "3DScan Kariya Micro Maker Faire 2026 ＆ 刈谷駅",
+      "path": "images/wrld_c819e9c2-3065-4a67-9cc1-30df2c88761d.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 99672,
+      "sha256": "643eeadce5ce4fd3315a821e27959ac5bdeef0e560aeea0db9263ea4f8282e32",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_e028c541-cb10-4144-b776-9e527a27e1a7",
+      "name": "3DScan ポートメッセ名古屋 金城ふ頭駅から第2展示館まで",
+      "path": "images/wrld_e028c541-cb10-4144-b776-9e527a27e1a7.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 81756,
+      "sha256": "8d4a957921c75edb0cff4c28daa3519938b8b26dcf1a3764c593997453cf7cd3",
+      "status": "ok"
+    },
+    {
+      "worldId": "wrld_f42701e2-b1d9-4edb-a27f-90a627abdd2f",
+      "name": "Kamakura High School Railroad Crossing",
+      "path": "images/wrld_f42701e2-b1d9-4edb-a27f-90a627abdd2f.png",
+      "width": 256,
+      "height": 192,
+      "bytes": 79764,
+      "sha256": "650b1ddb4fffc4cf1fdd79adf41287b08d95ebc16aec7c01f1eb9d8e0a5e6cc5",
+      "status": "ok"
     }
   ]
 }
